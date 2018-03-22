@@ -1,0 +1,101 @@
+sportName=swimming&text=GOLD (14)
+Women's 4 x 100m Free Relay
+   Jenny Thompson
+   Courtney Shealy
+   Dara Torres
+   Amy van Dyken (time: 03:36.61m)
+Women's 400m Freestyle
+   Brooke Bennett (time: 04:05.800m)
+Men's 400m Individial Medley
+   Tom Dolan
+   (time: 04:11.760m - world record)
+Men's 100m Backstroke
+   Lenny Krayzelburg
+   (time: 53.720s - Olympic record)
+Women's 100m Breaststroke
+   Megan Quann (time: 01:07.05m)
+Men's 200m Butterfly
+   Tom Malchow
+   (time: 01:55.350 - Olympic record)
+Women's 200m Butterfly
+   Misty Hyman (AZ)
+   (time: 02:05.88m - Olympic record)
+Women's 4 x 200m Free Relay
+   Samantha Arsenault
+   Diana Munz (AZ)
+   Lindsay Benko
+   Jenny Thompson
+   (time: 07:57.80m - Olympic record)
+Men's 200m Backstroke
+   Lenny Krayzelburg
+   (time: 01:56.760m - Olympic record)
+Men's 50m Freestyle
+   Gary Hall Jr. (AZ)
+   Anthony Ervin (AZ)
+   (time: 21:98s)
+Women's 800m Freestyle
+   Brooke Bennett 
+   (time: 08:19.67m - Olympic record)
+Men's 4x100 Medly Relay
+   Lenny Krayzelburg
+   Ed Moses
+   Ian Crocker
+   Gary Hall Jr. (AZ)
+   (time 03:33.73m - world record)
+Women's 4x100 Medley Relay
+   B.J. Bedford
+   Megan Quann
+   Jenny Thompson
+   Dara Torres (time 3:58.30m)
+
+SILVER (8)
+Men's 4 x 100m Free Relay
+   Neil Walker
+   Jason Lezak
+   Anthony Ervin (AZ)
+   Gary Hall Jr. (AZ)
+   (time: 03:13.86m)
+Men's 100m Breaststroke
+   Ed Moses (time: 1:00.730m)
+Women's 400m Freestyle
+   Diana Munz (AZ)
+   (time: 04:07.070m)
+Men's 400m Individual Medley
+   Erik Vendt (time: 04:14.230m)
+Men's 4 x 200m Free Relay
+   Scott Goldblatt
+   Klete Keller (AZ)
+   Jamie Rauch
+   Josh Davis (time: 07:12:64m)
+Men's 200m Backstroke
+   Aaron Peirsol
+   (time: 01:57.350)
+Men's 200m Individual Medley
+   Tom Dolan (time: 01:59.770)
+Women's 200m Breaststroke
+   Kristy Kowal (time: 02:24.56)
+
+BRONZE (11)
+Men's 400m Freestyle
+   Klete Keller (AZ)
+   (time: 03:47m)
+Women's 100m Butterfly
+   Dara Torres (time: 58.200s)
+Women's 200m Individual Medley
+   Cristina Teuscher (time: 02:13:32m)
+Men's 100m Freestyle
+   Gary Hall Jr. (AZ) (time: 48.73s)
+Men's 200m Individual Medley
+   Tom Wilkens (time: 02:00.87m)
+Women's 100m Freestyle
+   Jenny Thompson (time: 54.43s)
+Women's 100m Freestyle
+   Dara Torres (time: 54.43s)
+Women's 200m Breaststroke
+   Amanda Beard (AZ) (time: 02:25.35m)
+Women's 800m Freestyle
+   Kaitlin Sandeno (time: 08:24.29m)
+Men's 1500m Freestyle
+   Chris Thompson (time 14:56.81m)
+Women's 50m Freestyle
+    Dara Torres (time 24.63s)

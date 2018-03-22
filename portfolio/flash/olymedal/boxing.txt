@@ -1,0 +1,11 @@
+sportName=boxing&text=SILVER (2)
+Men's Featherweight
+   Ricardo Juarez
+Men's Light Welterweight
+   Ricardo Williams
+
+BRONZE (2)
+Men's Bantamweight
+   Clarence Vinson
+Men's Light Middleweight
+   Jermaine Taylor

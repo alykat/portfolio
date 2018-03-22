@@ -1,0 +1,10 @@
+sportName=tennis&text=GOLD (2)
+Women's Singles
+   Venus Williams
+Women's Doubles
+   Serena Williams
+   Venus Williams
+
+BRONZE
+Women's Singles
+   Monica Seles

@@ -1,0 +1,49 @@
+body, h1, h2, h3, h4, h5, h6, p, ul, li, form, blockquote, img { margin: 0; padding: 0; display: block; border: none; }
+body { font: 500 13px/1.4em Arial, sans-serif; color: #333; background-color: #FFF; }
+#container { width: 970px; margin: 0 auto; }
+
+img.photo, img.photoright, img.photoleft { border: 1px solid #EEE; padding: 4px; }
+img.photoright { float: right; margin-left: 1em; }
+img.photoleft { float: left; margin-right: 1em; }
+
+.rss { padding-left: 15px; background: transparent url('http://www.morethanthis.net/images/ico_feed_12x12.gif') no-repeat 0 .1em; }
+
+#nav { width: 100%; float: left; clear: both; padding: 10px 0; background-color: #EEE; margin-bottom: 30px; }
+#nav ul { padding: 0 15px; width: 940px; margin: 0 auto; }
+#nav ul li { display: inline; padding-right: 30px; font: 500 110% "jubilat-1","jubilat-2", Arial, sans-serif; color: #666; letter-spacing: .05em; }
+#nav ul li strong { font-weight: 500; }
+
+#bannerIndex { padding: 0 0 10px 0; margin-bottom: 30px; width: 100%; float: left; position: relative; }
+#photosite #bannerIndex { margin-bottom: 15px; }
+#bannerIndex h1 { font: 500 300% "jubilat-1","jubilat-2", serif; color: #333; padding: 0 15px; letter-spacing: .05em; }
+#bannerIndex h2 { font: 100 150% "jubilat-1","jubilat-2", serif; color: #666; display: none; }
+
+#sidebar { border-top: 2px dotted #EEE; padding: 20px 0; background-color: #f7f7f7; color: #666; font-size: 90%; line-height: 1.25 em; }
+#sidebar .wrap { width: 970px; margin: 0 auto; }
+#sidebar .side { width: 164px; float: left; padding: 0 15px; }
+#sidebar .wrap div:last-child { margin-right: 0; }
+#sidebar h3 { font: 700 110% "jubilat-1","jubilat-2", serif; color: #666; margin-bottom: .75em; }
+#sidebar p, #sidebar form { margin-bottom: .75em; }
+#sidebar li { margin-bottom: .5em; }
+#sidebar select { width: 150px; margin-bottom: .5em; display: block; }
+
+#footer { clear: both; padding: 10px 15px; background-color: #EEE; color: #666; }
+#footer ul { padding: 0 15px; width: 940px; margin: 0 auto; }
+#footer ul li { display: inline; padding-right: 20px; font-size: 90%; }
+
+
+/* PORTFOLIO LEFT RAIL */
+.introNav { padding:0 15px; width:164px; float: left; border-right:2px dotted #EEEEEE; }
+.introNav h2 { font: 300 150% "jubilat-1","jubilat-2", serif; color: #333; margin-bottom: 15px; }
+.introNav p  { margin-bottom: 15px; line-height: 1.6em; color: #666; }
+.introNav p strong  { margin-bottom: 15px; line-height: 1.6em; color: #333; }
+.introNav h3 { color: #999; margin-bottom: 10px; font: 700 130% "jubilat-1","jubilat-2", serif; }
+
+.blogbody h5 { color: #999; font: 700 100% "jubilat-1","jubilat-2", serif; }
+
+
+a, a:link { font-weight: 500; color: #6699cc; text-decoration: none; }
+a:visited { color: #336699; }
+a:hover, a:active { color: #336699; text-decoration: underline; }
+
+.statcounter { text-indent: -9999px; }

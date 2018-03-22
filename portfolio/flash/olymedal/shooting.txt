@@ -1,0 +1,9 @@
+sportName=shooting&text=GOLD (1)
+Women's 10m Air Rifle
+   Nancy Johnson (final: 497.7)
+
+BRONZE (2)
+Women's Double Trap
+   Kimberly Rhode (final: 139.0)
+Men's Skeet (125 targets)   
+   Todd Graves (final: 147.0)

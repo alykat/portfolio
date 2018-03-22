@@ -1,0 +1,15 @@
+sportName=equestrian&text=GOLD (1)
+Individual Three-Day Event
+   David O'Connor(Custom Made)
+
+BRONZE (2)
+Mixed Three-Day Event
+   Nina Fout (3 Magic Beans)
+   Karen O'Connor (Prince Panache)
+   David O'Connor (Giltedge)
+   Linden Weisman (Anderoo)
+Team Dressage
+   Susan Blinks (Flim Flam)
+   Robert Dover (Ranier)
+   Guenter Seidel (Foltaire)
+   Christine Traurig (Etienne)

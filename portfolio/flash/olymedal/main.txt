@@ -1,0 +1,1 @@
+goldTotal=39&silverTotal=25&bronzeTotal=33

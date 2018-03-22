@@ -1,0 +1,59 @@
+sportName=track and field&text=GOLD (10)
+Men's 100m
+   Maurice Greene (time: 9.87s)
+Women's 100m
+   Marion Jones (time: 10.75s)
+Men's 400m
+   Michael Johnson (time: 43.84s)
+Women's Pole Vault
+   Stacy Draglia
+   (height: 4.60 - Olympic record)
+Men's 400 Meter Hurdles
+   Angelo Taylor (time: 47.50s)
+Women's 200m
+   Marion Jones (time: 21.84s)
+Men's Pole Vault
+   Nick Hysong (AZ)
+   (height: 5.90m)
+Men's 4 x 100m Relay
+   Jonathon Drummond
+   Bernard Williams III
+   Brian Lewis
+   Maurice Green (time: 37.61s)
+Men's 4 x 400m Relay
+   Michael Johnson
+   Antonio Pettigrew
+   Alvin Harrison
+   Calvin Harrison (time: 02:56.35m)
+Women's 4 x 400m Relay
+   La Tasha Colander-Richardson
+   Monique Hennagan
+   Jearl Miles-Clark
+   Marion Jones (time: 03:22.62)
+
+SILVER (4)
+Men's Shotput
+   Adam Nelson (time: 21.21s)
+Men's 110m Hurdles
+   Terrence Trammell (time: 13.16s)
+Men's 400m
+   Alvin Harrison (time: 44.40s)
+Men's Pole Vault
+   Lawrence Johnson (height: 5.90m)
+
+BRONZE (6)
+Men's Shotput
+   John Godina (time: 21.20s)
+Men's 110m Hurdles
+   Mark Crear (time: 13.22s)
+Women's 100 Meter Hurdles
+   Melissa Morrison (time: 12.76s)
+Decathlon
+   Chris Huffins
+Women's Long Jump
+   Marion Jones (distance: 6.92m)
+Women's 4 x 100m Relay
+   Chryste Gaines
+   Torri Edwards
+   Nanceen Perry
+   Marion Jones (time: 42.20s)

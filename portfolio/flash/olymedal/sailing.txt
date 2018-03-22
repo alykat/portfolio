@@ -1,0 +1,17 @@
+sportName=sailing&text=GOLD (1)
+Star Class
+   Mark Reynolds
+   Magnus Liljedahl (points: 34)
+
+SILVER (2)
+Men's 470
+   Paul Forrester
+   Bob Merrick (points: 42)
+Women's 470
+   Jennifer Isler
+   Sarah Glaser (points: 47)
+
+BRONZE (1)
+Mixed 49er
+   Jonathan McKee
+   Charlie McKee (points: 91)

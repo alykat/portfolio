@@ -1,0 +1,7 @@
+sportName=weightlifting&text=GOLD (1)
+Women's 48kg (106lbs)
+  Tara Nott (total: 409 lbs.)
+
+BRONZE (1)
+Women's Super Heavyweight
+   Cheryl Hawroth (total: 270.0 lbs.)

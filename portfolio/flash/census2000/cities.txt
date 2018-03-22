@@ -1,0 +1,123 @@
+avo01=avondale
+&avo02=1990 data%0Dtotal population: 17,569%0Dwhite: 7,197%0Dblack: 718%0Dhispanic: 9,298%0Damerican indian: 141%0Dasian/pacific islander: 166%0Dother: 49
+&avo03=2000 data%0Dtotal population: 35,883%0Dwhite: 15,959%0Dblack: 1,748%0Dhispanic: 16,589%0Damerican indian: 245%0Dasian: 654%0Dhawaiian/pacific islander: 38%0Dother: 39%0Dtwo or more races: 611
+
+&bck01=buckeye
+&bck02=1990 data%0Dtotal population: 5,781%0Dwhite: 3,893%0Dblack: 196%0Dhispanic; 1,553%0Damerican indian: 94%0Dasian/pacific islander: 42%0Dother: 3
+&bck03=2000 data%0Dtotal population: 6,537%0Dwhite: 3,748%0Dblack: 215%0Dhispanic: 2,396%0Damerican indian: 86%0Dasian: 24%0Dhawaiian/pacific islander: 0%0Dother: 4%0Dtwo or more races: 64
+
+&car01=carefree / cave creek
+&car02=1990 data%0Dtotal population: 4,118%0Dwhite: 3,921%0Dblack: 3%0Dhispanic: 158%0Damerican indian: 14%0Dasian/pacific islander: 22%0Dother: 0
+&car03=2000 data%0Dtotal population: 6,655%0Dwhite: 6,220%0Dblack: 17%0Dhispanic: 341%0Damerican indian: 7%0Dasian: 28%0Dhawaiian/pacific islander: 1%0Dother: 1%0Dtwo or more races: 15
+
+&cfr01=carefree
+&cfr02=1990 data%0Dtotal population: 1,654%0Dwhite: 1,617%0Dblack: 1%0Dhispanic: 21%0Damerican indian: 1%0Dasian/pacific islander: 14%0Dother: 0
+&cfr03=2000 data%0Dtotal population: 2,927%0Dwhite: 2,816%0Dblack: 6%0Dhispanic: 78%0Damerican indian: 0%0Dasian: 13%0Dhawaiian/pacific islander: 0%0Dother: 0%0Dtwo or more races: 14
+
+&ccr01=cave creek
+&ccr02=1990 data%0Dtotal population: 2,464%0Dwhite: 2,304%0Dblack: 2%0Dhispanic: 137%0Damerican indian: 13%0Dasian/pacific islander: 8%0Dother: 0
+&ccr03=2000 data%0Dtotal population: 3,728%0Dwhite: 3,404%0Dblack: 11%0Dhispanic: 263%0Damerican indian: 7%0Dasian: 15%0Dhawaiian/pacific islander: 1%0Dother: 1%0Dtwo or more races: 1
+
+&cha01=chandler
+&cha02=1990 data%0Dtotal population: 90,138%0Dwhite: 69,151%0Dblack: 2,187%0Dhispanic: 15,804%0Damerican indian: 846%0Dasian/pacific islander: 2,054%0Dother: 96
+&cha03=2000 data%0Dtotal population: 176,581%0Dwhite: 121,168%0Dblack: 5,821%0Dhispanic: 37,059%0Damerican indian: 1,628%0Dasian: 7,345%0Dhawaiian/pacific islander: 222%0Dother: 301%0Dtwo or more races: 3,037
+
+&elm01=el mirage
+&elm02=1990 data%0Dtotal population: 5,001%0Dwhite: 917%0Dblack: 112%0Dhispanic: 3,498%0Damerican indian: 8%0Dasian/pacific islander: 3%0Dother: 13
+&elm03=2000 data%0Dtotal population: 7,609%0Dwhite: 2,097%0Dblack: 246%0Dhispanic: 5,084%0Damerican indian: 49%0Dasian: 27%0Dhawaiian/pacific islander: 4%0Dother: 2%0Dtwo or more races: 100
+
+&ftn01=fountain hills
+&ftn02=1990 data%0Dtotal population: 10,030%0Dwhite: 9,626%0Dblack: 41%0Dhispanic: 257%0Damerican indian: 52%0Dasian/pacific islander: 50%0Dother: 4
+&ftn03=2000 data%0Dtotal population: 20,235%0Dwhite: 19,055%0Dblack: 118%0Dhispanic: 618%0Damerican indian: 80%0Dasian: 176%0Dhawaiian/pacific islander: 12%0Dother: 13%0Dtwo or more races: 163
+
+&gla01=gila bend
+&gla02=1990 data%0Dtotal population: 1,928%0Dwhite: 872%0Dblack: 41%0Dhispanic: 764%0Damerican indian: 227%0Dasian/pacific islander: 23%0Dother: 2
+&gla03=2000 data%0Dtotal population: 1,980%0Dwhite: 687%0Dblack: 23%0Dhispanic: 1,042%0Damerican indian: 175%0Dasian: 7%0Dhawaiian/pacific islander: 0%0Dother: 0%0Dtwo or more races: 46
+
+&gil01=gilbert
+&gil02=1990 data%0Dtotal population: 30,414%0Dwhite: 25,665%0Dblack: 445%0Dhispanic: 3,663%0Damerican indian: 128%0Dasian/pacific islander: 492%0Dother: 21
+&gil03=2000 data%0Dtotal population: 109,697%0Dwhite: 87,597%0Dblack: 2,515%0Dhispanic: 13,026%0Damerican indian: 559%0Dasian: 3,863%0Dhawaiian/pacific islander: 120%0Dother: 111%0Dtwo or more races: 1,906
+
+&gln01=glendale
+&gln02=1990 data%0Dtotal population: 151,321%0Dwhite: 118,815%0Dblack: 4,733%0Dhispanic: 23,211%0Damerican indian: 1,214%0Dasian/pacific islander: 3,123%0Dother: 225
+&gln03=2000 data%0Dtotal population: 218,812%0Dwhite: 141,462%0Dblack: 9,818%0Dhispanic: 54,343%0Damerican indian: 2,460%0Dasian: 5,860%0Dhawaiian/pacific islander: 230%0Dother: 289%0Dtwo or more races: 4,350
+
+&gyr01=goodyear
+&gyr02=1990 data%0Dtotal population: 2,266%0Dwhite: 3,843%0Dblack: 425%0Dhispanic: 1,782%0Damerican indian: 123%0Dasian/pacific islander: 82%0Dother: 11
+&gyr03=2000 data%0Dtotal population: 18,911%0Dwhite: 13,206%0Dblack: 962%0Dhispanic: 3,933%0Damerican indian: 175%0Dasian: 315%0Dhawaiian/pacific islander: 14%0Dother: 18%0Dtwo or more races: 288
+
+&gua01=guadalupe
+&gua02=1990 data%0Dtotal population: 5,507%0Dwhite: 128%0Dblack: 19%0Dhispanic: 3,974%0Damerican indian: 1,356%0Dasian/pacific islander: 4%0Dother: 25
+&gua03=2000 data%0Dtotal population: 5,228%0Dwhite: 76%0Dblack: 34%0Dhispanic: 3,782%0Damerican indian: 1,281%0Dasian: 3%0Dhawaiian/pacific islander: 0%0Dother: 7%0Dtwo or more races: 45
+
+&lfp01=litchfield park
+&lfp02=1990 data%0Dtotal population: 3,303%0Dwhite: 3,085%0Dblack: 21%0Dhispanic: 106%0Damerican indian: 8%0Dasian/pacific islander: 82%0Dother: 1
+&lfp03=2000 data%0Dtotal population: 3,810%0Dwhite: 3,377%0Dblack: 48%0Dhispanic: 209%0Damerican indian: 14%0Dasian: 109%0Dhawaiian/pacific islander: 7%0Dother: 4%0Dtwo or more races: 42
+
+&msa01=mesa
+&msa02=1990 data%0Dtotal population: 290,311%0Dwhite: 246,613%0Dblack: 5,150%0Dhispanic: 31,515%0Damerican indian: 2,636%0Dasian/pacific islander: 4,148%0Dother: 250
+&msa03=2000 data%0Dtotal population: 396,375%0Dwhite: 290,180%0Dblack: 9,377%0Dhispanic: 78,281%0Damerican indian: 5,454%0Dasian: 5,755%0Dhawaiian/pacific islander: 874%0Dother: 402%0Dtwo or more races: 6,052
+
+&nrv01=new river
+&nrv02=1990 data%0Dtotal population: 3,987%0Dwhite: 3,801%0Dblack: 5%0Dhispanic: 152%0Damerican indian: 13%0Dasian/pacific islander: 14%0Dother: 1
+&nrv03=2000 data%0Dtotal population: 10,740%0Dwhite: 9,932%0Dblack: 45%0Dhispanic: 521%0Damerican indian: 58%0Dasian: 48%0Dhawaiian/pacific islander: 5%0Dother: 16%0Dtwo or more races: 115
+
+&pva01=paradise valley
+&pva02=1990 data%0Dtotal population: 11,932%0Dwhite: 11,448%0Dblack: 29%0Dhispanic: 243%0Damerican indian: 32%0Dasian/pacific islander: 180%0Dother: 1
+&pva03=2000 data%0Dtotal population: 13,664%0Dwhite: 12,766%0Dblack: 96%0Dhispanic: 364%0Damerican indian: 24%0Dasian: 275%0Dhawaiian/pacific islander: 4%0Dother: 17%0Dtwo or more races: 118
+
+&peo01=peoria
+&peo02=1990 data%0Dtotal population: 51,074%0Dwhite: 41,107%0Dblack: 1,092%0Dhispanic: 7,964%0Damerican indian: 259%0Dasian/pacific islander: 686%0Dother: 65
+&peo03=2000 data%0Dtotal population: 108,364%0Dwhite: 84,370%0Dblack: 2,887%0Dhispanic: 16,699%0Damerican indian: 579%0Dasian: 1,992%0Dhawaiian/pacific islander: 111%0Dother: 108%0Dtwo or more races: 1,618
+
+&phx01=phoenix
+&phx02=1990 data%0Dtotal population: 989,267%0Dwhite: 710,254%0Dblack: 48,956%0Dhispanic: 197,882%0Damerican indian: 15,790%0Dasian/pacific islander: 15,019%0Dother: 1,367
+&phx03=2000 data%0Dtotal population: 1,321,045%0Dwhite: 736,844%0Dblack: 63,756%0Dhispanic: 449,972%0Damerican indian: 21,472%0Dasian: 25,453%0Dhawaiian/pacific islander: 1,353%0Dother: 1,488%0Dtwo or more races: 20,707
+
+&qcr01=queen creek
+&qcr02=1990 data%0Dtotal population: 2,885%0Dwhite: 1,869%0Dblack: 28%0Dhispanic: 927%0Damerican indian: 34%0Dasian/pacific islander: 19%0Dother: 9
+&qcr03=2000 data%0Dtotal population: 4,316%0Dwhite: 2,921%0Dblack: 14%0Dhispanic: 1,294%0Damerican indian: 22%0Dasian: 14%0Dhawaiian/pacific islander: 3%0Dother: 1%0Dtwo or more races: 47
+
+&rv01=rio verde
+&rv02=1990 data%0Dtotal population: 617%0Dwhite: 623%0Dblack: 0%0Dhispanic: 3%0Damerican indian: 1%0Dasian/pacific islander: 0%0Dother: 0
+&rv03=2000 data%0Dtotal population: 1,419%0Dwhite: 1,411%0Dblack: 0%0Dhispanic: 4%0Damerican indian: 1%0Dasian: 2%0Dhawaiian/pacific islander: 0%0Dother: 0%0Dtwo or more races: 1
+
+&sct01=scottsdale
+&sct02=1990 data%0Dtotal population: 130,103%0Dwhite: 120,666%0Dblack: 965%0Dhispanic: 6,203%0Damerican indian: 669%0Dasian/pacific islander: 1,552%0Dother: 47
+&sct03=2000 data%0Dtotal population: 202,705%0Dwhite: 178,462%0Dblack: 2,398%0Dhispanic: 14,111%0Damerican indian: 1,039%0Dasian: 3,919%0Dhawaiian/pacific islander: 161%0Dother: 209%0Dtwo or more races: 2,406
+
+&sc01=sun city / sun city west
+&sc02=1990 data%0Dtotal population: 53,637%0Dwhite: 53,006%0Dblack: 119%0Dhispanic: 223%0Damerican indian: 37%0Dasian/pacific islander: 70%0Dother: 3
+&sc03=2000 data%0Dtotal population: 64,653%0Dwhite: 63,393%0Dblack: 322%0Dhispanic: 537%0Damerican indian: 59%0Dasian: 210%0Dhawaiian/pacific islander: 17%0Dother: 6%0Dtwo or more races: 210
+
+&sci01=sun city
+&sci02=1990 data%0Dtotal population: 37,955%0Dwhite: 37,632%0Dblack: 62%0Dhispanic: 190%0Damerican indian: 25%0Dasian/pacific islander: 43%0Dother: 3
+&sci03=2000 data%0Dtotal population: 38,309%0Dwhite: 37,420%0Dblack: 193%0Dhispanic: 383%0Damerican indian: 45%0Dasian: 115%0Dhawaiian/pacific islander: 8%0Dother: 4%0Dtwo or more races: 141
+
+&scw01=sun city west
+&scw02=1990 data%0Dtotal population: 15,682%0Dwhite: 15,374%0Dblack: 57%0Dhispanic: 33%0Damerican indian: 12%0Dasian/pacific islander: 27%0Dother: 0
+&scw03=2000 data%0Dtotal population: 26,344%0Dwhite: 25,872%0Dblack: 129%0Dhispanic: 154%0Damerican indian: 14%0Dasian: 95%0Dhawaiian/pacific islander: 9%0Dother: 2%0Dtwo or more races: 69
+
+&slk01=sun lakes
+&slk02=1990 data%0Dtotal population: 7,269%0Dwhite: 7,137%0Dblack: 35%0Dhispanic: 75%0Damerican indian: 11%0Dasian/pacific islander: 11%0Dother: 0
+&slk03=2000 data%0Dtotal population: 11,936%0Dwhite: 11,642%0Dblack: 93%0Dhispanic: 112%0Damerican indian: 16%0Dasian: 37%0Dhawaiian/pacific islander: 0%0Dother: 0%0Dtwo or more races: 33
+
+&sur01=surprise
+&sur02=1990 data%0Dtotal population: 7,489%0Dwhite: 3,381%0Dblack: 108%0Dhispanic: 3,947%0Damerican indian: 29%0Dasian/pacific islander: 8%0Dother: 16
+&sur03=2000 data%0Dtotal population: 30,848%0Dwhite: 22,136%0Dblack: 744%0Dhispanic: 7,184%0Damerican indian: 95%0Dasian: 321%0Dhawaiian/pacific islander: 15%0Dother: 18%0Dtwo or more races: 335
+
+&tem01=tempe
+&tem02=1990 data%0Dtotal population: 142,432%0Dwhite: 115,126%0Dblack: 4,408%0Dhispanic: 14,483%0Damerican indian: 1,653%0Dasian/pacific islander: 5,630%0Dother: 132
+&tem03=2000 data%0Dtotal population: 158,625%0Dwhite: 110,517%0Dblack: 5,546%0Dhispanic: 28,473%0Damerican indian: 2,678%0Dasian: 7,405%0Dhawaiian/pacific islander: 425%0Dother: 244%0Dtwo or more races: 3,337
+
+&tol01=tolleson
+&tol02=1990 data%0Dtotal population: 4,436%0Dwhite: 997%0Dblack: 20%0Dhispanic: 3,309%0Damerican indian: 43%0Dasian/pacific islander: 36%0Dother: 31
+&tol03=2000 data%0Dtotal population: 4,974%0Dwhite: 945%0Dblack: 58%0Dhispanic: 3,878%0Damerican indian: 27%0Dasian: 14%0Dhawaiian/pacific islander: 8%0Dother: 2%0Dtwo or more races: 42
+
+&wck01=wickenburg
+&wck02=1990 data%0Dtotal population: 4,524%0Dwhite: 4,173%0Dblack: 2%0Dhispanic: 282%0Damerican indian: 50%0Dasian/pacific islander: 17%0Dother: 0
+&wck03=2000 data%0Dtotal population: 5,082%0Dwhite: 4,360%0Dblack: 14%0Dhispanic: 560%0Damerican indian: 51%0Dasian: 19%0Dhawaiian/pacific islander: 6%0Dother: 9%0Dtwo or more races: 63
+
+&ytn01=youngtown
+&ytn02=1990 data%0Dtotal population: 2,561%0Dwhite: 2,363%0Dblack: 25%0Dhispanic: 169%0Damerican indian: 2%0Dasian/pacific islander: 2%0Dother: 0
+&ytn03=2000 data%0Dtotal population: 3,010%0Dwhite: 2,526%0Dblack: 40%0Dhispanic: 383%0Damerican indian: 13%0Dasian: 17%0Dhawaiian/pacific islander: 8%0Dother: 0%0Dtwo or more races: 23

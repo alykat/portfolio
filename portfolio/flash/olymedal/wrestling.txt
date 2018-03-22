@@ -1,0 +1,19 @@
+sportName=wrestling&text=GOLD (1)
+Greco-Roman Super Heavyweight
+   Rulon Gardner
+
+SILVER (3)
+Greco-Roman Welterweight
+   Matt James Lindland
+Freestyle Flyweight
+   Samuel Henson
+Freestyle Welterweight
+   Brandon Slay
+
+BRONZE (3)
+Greco-Roman Light Heavyweight
+   Garrett Lowney
+Freestyle Bantamweight
+   Terry Brands
+Freestyle Lightweight
+   Lincon McIlravy

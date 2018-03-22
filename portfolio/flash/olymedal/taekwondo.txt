@@ -1,0 +1,3 @@
+sportName=taekwondo&text=GOLD (1)
+Men's Featherweight
+   Steven Lopez

@@ -1,0 +1,25 @@
+sportName=baseball&text=GOLD (1)
+   Brent Abernathy
+   Kurt Ainsworth
+   Pat Borders
+   Adam Everett
+   Chris George
+   Shane Heams
+   Mike Kinkade
+   Roy Oswalt
+   John Rauch
+   Anthony Sanders (AZ)
+   Ben Sheets
+   Brad Wilkerson
+   Ernie Young (AZ)
+   Tim Young
+   Sean Burroughs
+   Ryan Franklin
+   Rick Krivda
+   Doug Mientkiewicz
+   John Cotton
+   Mike Neill
+   Travis Dawkins
+   Marcus Jensen (AZ)
+   Bobby Seay
+   Todd Williams

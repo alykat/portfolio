@@ -1,0 +1,27 @@
+sportName=basketball&text=GOLD (2)
+Women's Basketball
+   Ruthie Bolton-Holifield
+   Teresa Edwards
+   Yolanda Griffith
+   Chamique Holdsclaw
+   Lisa Leslie
+   Nikki McCray
+   Delisha Milton
+   Katie Smith
+   Dawn Staley
+   Sheryl Swoopes
+   Natalie Williams
+   Kara Wolters
+Men's Basketball
+   Vin Baker
+   Kevin Garnett
+   Tim Hardaway
+   Allan Houston
+   Jason Kidd (AZ)
+   Gary Payton
+   Steve Smith
+   Ray Allen
+   Vince Carter
+   Shareef Abdur-Rahim
+   Antonio McDyess
+   Alonzo Mourning

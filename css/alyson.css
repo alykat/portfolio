@@ -1,0 +1,175 @@
+/* CSS Document */
+body {
+	margin: 0;
+	background-color: #FFF;
+	border-left: 30px solid #FFF;
+}
+
+body, p, li {
+	font: 8pt "Lucida Grande", "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color: #999;
+}
+li {
+	padding-bottom: 5px;
+}
+
+h2 {
+	font: bold 11pt "Lucida Grande", "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color: #666;
+}
+
+h3 {
+	font: bold 9pt "Lucida Grande", "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color: #666;
+}
+
+h4 {
+	font: bold 9.5pt "Lucida Grande", "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color: #666;
+}
+
+#footer, #footer p {
+	font: 8pt "Lucida Grande", "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color: #999;
+}
+
+#story, #story p, #story blockquote, #story li {
+	font: 9.5pt/14pt "Lucida Grande", "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color: #333;
+}
+#story h2 {
+	font-size: 13pt;
+	line-height: normal;
+}
+#story h3 {
+	font-size: 11pt;
+	line-height: normal;
+}
+#story h4 {
+	font-size: 9.5pt;
+	line-height: normal;
+}
+
+table.datatable caption {
+	font-size: 8.5pt;
+	text-align: left;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	border-top: 1px solid #CCC;
+}
+table.datatable {
+	width: 400px;
+	border: 1px solid #CCC;
+}
+table.datatable th {
+	font-size: 8.5pt;
+	font-weight: bold;
+	background-color: #CCC;
+	text-align: left;
+	padding: 5px;
+	width: 25%;
+}
+table.datatable td {
+	border-bottom: 1px solid #CCC;
+	padding: 5px;
+	margin: 0;
+	font-size: 8.5pt;
+}
+tr.shadedrow {
+	background-color: #EEE;
+}
+
+#endnotes, #endnotes p, #endnotes li, #endnotes blockquote {
+	font: 9pt "Lucida Grande", "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+#endnotes ol li {
+	padding-bottom: 5px;
+}
+
+blockquote {
+	margin: 15px;
+	padding: 5px;
+	border: 1px solid #CCC;
+}
+
+#topnav {
+	margin: 0;
+	padding: 0;
+	height: 230px;
+}
+#header {
+	position: asolute;
+	left: 0;
+	top: 0;
+	width: 332px;
+	height: 230px;
+	background: url('/gifs/title_ahurt.gif') no-repeat;
+}
+#toplink1 {
+	position: absolute;
+	left: 350px;
+	top: 0;
+	width: 109px;
+	height: 230px;
+	background: url('/gifs/link_resume.gif') no-repeat;
+}
+#toplink2 {
+	position: absolute;
+	left: 459px;
+	top: 0;
+	width: 130px;
+	height: 230px;
+	background: url('/gifs/link_portfolio.gif') no-repeat;
+}
+#header span, #toplink1 span, #toplink2 span {
+	display: none;
+}
+
+#recently {
+	width: 150px;
+	padding-bottom: 10px;
+}
+#recently h2 {
+	display: none;
+}
+#recently p {
+	font: 8pt/12pt "Lucida Grande", "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+#content {
+	margin-left: 82px;
+	width: 400px;
+	padding-bottom: 10px;
+}
+
+a {
+	border-bottom: 1px dotted #CCC;
+	text-decoration: none;
+}
+a:link {
+	color: #666;
+}
+a:visited {
+	color: #333;
+}
+a:hover, a:active {
+	text-decoration: underline;
+	color: #333;
+}
+
+#header a {
+	text-decoration: none;
+	border: none;
+}
+
+#breadcrumbs a:link {
+	color: #CCC;
+}
+#breadcrumbs a:visited {
+	color: #999;
+}
+#breadcrumbs a:hover, #breadcrumbs a:active {
+	text-decoration: underline;
+	color: #333;
+}

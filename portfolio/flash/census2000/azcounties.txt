@@ -1,0 +1,269 @@
+apac_name=Apache County
+&apac_pop90=1990 total population: 61,591
+&apac_race90a=White: 11,469
+Black: 107
+Hispanic: 2,407
+&apac_race90b=American Indian/Alaska Native: 47,566
+Asian/Pacific Islander: 17
+Other: 25
+&apac_pop00=2000 total population: 69,423
+&apac_race00a=White: 12,281
+Black: 163
+Hispanic: 3,119
+Asian: 85
+&apac_race00b=American Indian/Alaska Native: 53,036
+Native Hawaiian/Pacific Islander: 30
+Other: 31
+Two or more races: 678
+
+&coch_name=Cochise County
+&coch_pop90=1990 total population: 97,624
+&coch_race90a=White: 61,854
+Black: 4,789
+Hispanic: 27,766
+&coch_race90b=American Indian/Alaska Native: 942
+Asian/Pacific Islander: 2,047
+Other: 226
+&coch_pop00=2000 total population: 117,755
+&coch_race00a=White: 70,754
+Black: 5,062
+Hispanic: 36,134
+Asian: 1,876
+&coch_race00b=American Indian/Alaska Native: 978
+Native Hawaiian/Pacific Islander: 271
+Other: 194
+Two or more races: 2,486
+
+&coco_name=Coconino County
+&coco_pop90=1990 total population: 96,591
+&coco_race90a=White: 57,170
+Black: 1,180
+Hispanic: 9,768
+&coco_race90b=American Indian/Alaska Native: 27,661
+Asian/Pacific Islander: 698
+Other: 114
+&coco_pop00=2000 total population: 116,320
+&coco_race00a=White: 66,969
+Black: 1,150
+Hispanic: 12,727
+Asian: 896
+&coco_race00b=American Indian/Alaska Native: 32,557
+Native Hawaiian/Pacific Islander: 100
+Other: 128
+Two or more races: 1,793
+
+&gila_name=Gila County
+&gila_pop90=1990 total population: 40,216
+&gila_race90a=White: 27,414
+Black: 96
+Hispanic: 7,417
+&gila_race90b=American Indian/Alaska Native: 5,157
+Asian/Pacific Islander: 102
+Other: 30
+&gila_pop00=2000 total population: 51,335
+&gila_race00a=White: 35,391
+Black: 174
+Hispanic: 8,546
+Asian: 211
+&gila_race00b=American Indian/Alaska Native: 6,412
+Native Hawaiian/Pacific Islander: 24
+Other: 36
+Two or more races: 541
+
+&grah_name=Graham County
+&grah_pop90=1990 total population: 26,554
+&grah_race90a=White: 15,629
+Black: 442
+Hispanic: 6,520
+&grah_race90b=American Indian/Alaska Native: 3,796
+Asian/Pacific Islander: 167
+Other: 0
+&grah_pop00=2000 total population: 33,489
+&grah_race00a=White: 18,488
+Black: 602
+Hispanic: 9,054
+Asian: 182
+&grah_race00b=American Indian/Alaska Native: 4,819
+Native Hawaiian/Pacific Islander: 10
+Other: 28
+Two or more races: 306
+
+&gree_name=Greenlee County
+&gree_pop90=1990 total population: 8,008
+&gree_race90a=White: 4,411
+Black: 27
+Hispanic: 3,425
+&gree_race90b=American Indian/Alaska Native: 100
+Asian/Pacific Islander: 45
+Other: 0
+&gree_pop00=2000 total population: 8,547
+&gree_race00a=White: 4,604
+Black: 34
+Hispanic: 3,681
+Asian: 12
+&gree_race00b=American Indian/Alaska Native: 117
+Native Hawaiian/Pacific Islander: 1
+Other: 13
+Two or more races: 85
+
+&lapa_name=La Paz County
+&lapa_pop90=1990 total population: 13,844
+&lapa_race90a=White: 8,318
+Black: 38
+Hispanic: 3,416
+&lapa_race90b=American Indian/Alaska Native: 1,979
+Asian/Pacific Islander: 63
+Other: 30
+&lapa_pop00=2000 total population: 19,715
+&lapa_race00a=White: 12,573
+Black: 149
+Hispanic: 4,420
+Asian: 78
+&lapa_race00b=American Indian/Alaska Native: 2,155
+Native Hawaiian/Pacific Islander: 9
+Other: 18
+Two or more races: 313
+
+&mari_name=Maricopa County
+&mari_pop90=1990 total population: 2,122,101
+&mari_race90a=White: 1,641,319
+Black: 71,896
+Hispanic: 340,117
+&mari_race90b=American Indian/Alaska Native: 32,905
+Asian/Pacific Islander: 33,681
+Other: 2,183
+&mari_pop00=2000 total population: 3,072,149
+&mari_race00a=White: 2,034,530
+Black: 108,521
+Hispanic: 763,341
+Asian: 64,562
+&mari_race00b=American Indian/Alaska Native: 45,703
+Native Hawaiian/Pacific Islander: 3,725
+Other: 4,086
+Two or more races: 47,681
+
+&moha_name=Mohave County
+&moha_pop90=1990 total population: 93,497
+&moha_race90a=White: 86,106
+Black: 103
+Hispanic: 4,637
+&moha_race90b=American Indian/Alaska Native: 1,953
+Asian/Pacific Islander: 622
+Other: 76
+&moha_pop00=2000 total population: 155,032
+&moha_race00a=White: 130,283
+Black: 787
+Hispanic: 17,182
+Asian: 1,118
+&moha_race00b=American Indian/Alaska Native: 3,238
+Native Hawaiian/Pacific Islander: 151
+Other: 128
+Two or more races: 2,145
+
+&nava_name=Navajo County
+&nava_pop90=1990 total population: 77,658
+&nava_race90a=White: 31,148
+Black: 734
+Hispanic: 5,539
+&nava_race90b=American Indian/Alaska Native: 40,032
+Asian/Pacific Islander: 196
+Other: 9
+&nava_pop00=2000 total population: 97,470
+&nava_race00a=White: 41,196
+Black: 794
+Hispanic: 8,011
+Asian: 305
+&nava_race00b=American Indian/Alaska Native: 45,846
+Native Hawaiian/Pacific Islander: 39
+Other: 29
+Two or more races: 1,240
+
+&pima_name=Pima County
+&pima_pop90=1990 total population: 66,880
+&pima_race90a=White: 456,630
+Black: 19,663
+Hispanic: 161,053
+&pima_race90b=American Indian/Alaska Native: 17,383
+Asian/Pacific Islander: 11,357
+Other: 794
+&pima_pop00=2000 total population: 843,746
+&pima_race00a=White: 518,720
+Black: 24,047
+Hispanic: 247,578
+Asian: 16,595
+&pima_race00b=American Indian/Alaska Native: 21,821
+Native Hawaiian/Pacific Islander: 891
+Other: 1,012
+Two or more races: 13,082
+
+&pina_name=Pinal County
+&pina_pop90=1990 total population: 116,379
+&pina_race90a=White: 68,403
+Black: 3,439
+Hispanic: 34,158
+&pina_race90b=American Indian/Alaska Native: 9,735
+Asian/Pacific Islander: 527
+Other: 117
+&pina_pop00=2000 total population: 179,727
+&pina_race00a=White: 105,641
+Black: 4,658
+Hispanic: 53,671
+Asian: 1,001
+&pina_race00b=American Indian/Alaska Native: 12,419
+Native Hawaiian/Pacific Islander: 111
+Other: 169
+Two or more races: 2,057
+
+&sant_name=Santa Cruz County
+&sant_pop90=1990 total population: 29,676
+&sant_race90a=White: 6,647
+Black: 6
+Hispanic: 22,894
+&sant_race90b=American Indian/Alaska Native: 8
+Asian/Pacific Islander: 103
+Other: 18
+&sant_pop00=2000 total population: 38,381
+&sant_race00a=White: 6,835
+Black: 75
+Hispanic: 31,005
+Asian: 189
+&sant_race00b=American Indian/Alaska Native: 95
+Native Hawaiian/Pacific Islander: 17
+Other: 28
+Two or more races: 137
+
+&yava_name=Yavapai County
+&yava_pop90=1990 total population: 107,714
+&yava_race90a=White: 98,499
+Black: 237
+Hispanic: 6,854
+&yava_race90b=American Indian/Alaska Native: 1,541
+Asian/Pacific Islander: 485
+Other: 98
+&yava_pop00=2000 total population: 167,517
+&yava_race00a=White: 145,037
+Black: 589
+Hispanic: 16,376
+Asian: 833
+&yava_race00b=American Indian/Alaska Native: 2,355
+Native Hawaiian/Pacific Islander: 128
+Other: 89
+Two or more races: 2,110
+
+&yuma_name=Yuma County
+&yuma_pop90=1990 total population: 106,895
+&yuma_race90a=White: 56,889
+Black: 2,614
+Hispanic: 44,657
+&yuma_race90b=American Indian/Alaska Native: 1,444
+Asian/Pacific Islander: 1,164
+Other: 127
+&yuma_pop00=2000 total population: 160,026
+&yuma_race00a=White: 70,956
+Black: 3,136
+Hispanic: 80,772
+Asian: 1,362
+&yuma_race00b=American Indian/Alaska Native: 1,819
+Native Hawaiian/Pacific Islander: 132
+Other: 131
+Two or more races: 1,718

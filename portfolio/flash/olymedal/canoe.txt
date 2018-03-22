@@ -1,0 +1,1 @@
+sportName=canoe/kayak&text=No medals awarded to U.S. athletes.

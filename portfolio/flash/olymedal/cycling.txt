@@ -1,0 +1,11 @@
+sportName=cycling&text=GOLD (1)
+Men's Sprint
+   Marty Nothstein
+
+SILVER (1)
+Women's Individual Road Time Trial
+   Mari Holden
+
+BRONZE (1)
+Men's Individual Road Time Trial
+   Lance Armstrong
