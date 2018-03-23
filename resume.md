@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resume
-permalink: /resume/
+permalink: /portfolio/resume/
 ---
 
 ## Work History
@@ -65,11 +65,11 @@ Magna Cum Laude
 
 --------
 
-## Awards and Honors
+## [Awards and Honors](awards/)
 
 * **Emmy Award** for ["Planet Money Makes a T-Shirt"](http://apps.npr.org/tshirt/) (2013)
 * **Peabody award** for NPR.org (2009)
 * **SND Best of Digital Design gold medal** for "Planet Money Makes a T-Shirt" (2013)
 * **SND Best of Digital Design silver medal** for "NPR Election Party" and the NPR Visuals team portfolio (2014)
 
-[Full List](TKTKTK)
+[Full List](awards/)

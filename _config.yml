@@ -24,6 +24,7 @@ twitter_username: alykat
 github_username:  alykat
 
 # Build settings
+highlighter: rouge
 markdown: kramdown
 theme: minima
 plugins:

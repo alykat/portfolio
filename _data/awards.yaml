@@ -1,0 +1,146 @@
+- name: "The Driving Life and Death of Philando Castile"
+  publisher: NPR
+  url: http://www.npr.org/sections/thetwo-way/2016/07/15/485835272/the-driving-life-and-death-of-philando-castile
+  awards:
+    -
+      name: "SND Best of Digital Design"
+      category: "Award of Excellence: Graphics, breaking news"
+      url: http://www.snd.org/2017/02/final-results-best-of-digital-design-2016/
+      date: "2016"
+
+-   name: 2016 election coverage
+    publisher: NPR
+    url: http://www.npr.org/2016/11/08/500427835/live-blog-election-night-2016
+    role: co-designer/front-end developer
+    awards:
+    -   name: SND Best of Digital Design
+        category: "Award of Excellence: Special events, U.S. elections"
+        url: http://www.snd.org/2017/02/final-results-best-of-digital-design-2016
+        date: 2016
+
+-   name: "A Silent Epidemic"
+    publisher: "NPR"
+    url: http://apps.npr.org/mental-health/
+    role: "co-designer/front-end developer, project manager"
+    awards:
+    -   name: "SND Best of Digital Design"
+        category: "Award of Excellence: Features, single-subject project"
+        url: http://www.snd.org/2017/02/final-results-best-of-digital-design-2016
+        date: 2016
+
+-   name: "Why America's Schools Have a Money Problem"
+    publisher: "NPR"
+    url: http://www.npr.org/2016/04/18/474256366/why-americas-schools-have-a-money-problem
+    role: "co-designer"
+    awards:
+    -   name: "SND Best of Digital Design"
+        category: "Award of Excellence: Graphics, features and planned coverage"
+        url: http://www.snd.org/2017/02/final-results-best-of-digital-design-2016/
+        date: 2016
+
+-   name: "Coal, Gas, Nuclear, Hydro? How Your State Generates Power"
+    publisher: "NPR"
+    url: http://www.npr.org/2015/09/10/319535020/coal-gas-nuclear-hydro-how-your-state-generates-power
+    awards:
+    -   name: "Information Is Beautiful Awards"
+        category: "Short list: Data visualization"
+        url: http://www.informationisbeautifulawards.com/showcase/749-how-each-state-generates-power
+        date: 2015
+
+-   name: "NPR Election Party"
+    publisher: "NPR"
+    url: http://elections2014.npr.org
+    role: "co-designer/front-end developer"
+    awards:
+    -   name: "ONA Online Journalism Awards"
+        category: "Finalist: Planned News/Events, Large"
+        url: http://journalists.org/2015/08/11/2015-online-journalism-awards-finalists-announced
+        date: 2015
+    -   name: "SND Best of Digital Design"
+        category: "Silver Medal: Special Events, Large"
+        url: http://www.snd.org/2015/03/winners-list-2014-best-of-digital-design-competition/
+        date: 2014
+
+-   name: "NPR Visuals team portfolio"
+    publisher: "NPR"
+    url: http://blog.apps.npr.org/apps/
+    awards:
+    -   name: "SND Best of Digital Design"
+        category: "Silver Medal: Portfolios: Organization, Large"
+        url: http://www.snd.org/2015/03/winners-list-2014-best-of-digital-design-competition/
+        date: 2014
+
+-   name: "Deals for Developers"
+    publisher: "NPR"
+    url: http://apps.npr.org/deals-for-developers-wamu/
+    role: "designer"
+    awards:
+    -   name: "Data Journalism Awards"
+        category: "Finalist: Data-Driven Investigation"
+        url: http://www.globaleditorsnetwork.org/programmes/data-journalism-awards/
+        date: 2014
+
+-   name: "Planet Money Makes A T-Shirt"
+    publisher: "NPR"
+    url: http://apps.npr.org/tshirt/
+    role: "co-designer / front-end developer"
+    awards:
+    -   name: "35th Annual News and Documentary Emmy Awards"
+        category: "Emmy Winner: New Approaches, Documentaries"
+        url: http://emmyonline.org/news_35th_winners
+        date: 2014
+    -   name: "Online Journalism Awards"
+        category: "Winner: Excellence and Innovation in Visual Digital Storytelling, Large; Winner: Feature, Large; Finalist: Explanatory Reporting, Large"
+        url: http://journalists.org/2014/09/27/seattle-times-pro-publica-npr-take-home-2014-online-journalism-awards/
+        date: 2014
+    -   name: "Gerald Loeb Awards"
+        category: "Online Winner"
+        url: http://www.businesswire.com/news/home/20140624006875/en/UCLA-Anderson-School-Management-Announces-2014-Gerald
+        date: 2014
+    -   name: "Overseas Press Club Awards"
+        category: "Winner: Best Multimedia News Presentation"
+        url: https://www.opcofamerica.org/awards/20-best-multimedia-news-presentation-0
+        date: 2013
+    -   name: "SPJ Sigma Delta Chi Awards"
+        category: "Winner: Specialized Journalism Site"
+        url: https://www.spj.org/sdxa13.asp
+        date: 2013
+    -   name: "SND Best of Digital Design"
+        category: "Gold Medal: Single-Story Project; Silver Medal: Use of Multimedia"
+        url: http://www.snd.org/2014/03/snd35-a-list-of-the-best-of-digital-design-award-winners/
+        date: 2014
+    -   name: "Scripps Howard Awards"
+        category: "Winner: Digital Innovation"
+        url: http://www.prnewswire.com/news-releases/scripps-howard-awards-honor-nations-best-2013-journalism-251266701.html
+        date: 2014
+    -   name: "Pictures of the Year International"
+        category: "Winner: Documentary Project of the Year"
+        url: http://poyi.org/71/44/index.php
+        date: 2014
+    -   name: "Pictures of the Year International"
+        category: "First Place: Documentary Journalism"
+        url: http://poyi.org/71/23/index.php
+        date: 2014
+    -   name: "SABEW Best in Business awards"
+        category: "Winner: Innovation"
+        url: http://sabew.org/2014/02/2013-bib-winners-list/
+        date: 2013
+    -   name: "White House News Photographers Association Eyes of History Contest"
+        category: "First Place: Innovation"
+        url: http://www.whnpa.org/contests/multimedia-contest/2014-eyes-of-history-new-media-editing-contest/
+        date: 2014
+
+# -   name: "TKTK"
+#     publisher: "TKTKTK"
+#     description: "TKTKTK"
+#     url: TKTKTK
+#     role: "TKTKTK"
+#     awards:
+#     -   name: "TKTKTK"
+#         category: "TKTKTK"
+#         url: TKTKTK
+#         date: TKTKTK
+#     -   name: "TKTKTK"
+#         category: "TKTKTK"
+#         url: TKTKTK
+#         date: TKTKTK
