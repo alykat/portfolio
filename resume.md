@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resume
-permalink: /portfolio/resume/
+permalink: /resume/
 ---
 
 ## Work History

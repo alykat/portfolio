@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Awards and Honors
-permalink: /portfolio/resume/awards/
+permalink: /resume/awards/
 ---
 
 {% for project in site.data.awards  %}
