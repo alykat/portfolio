@@ -4,7 +4,10 @@ title: Awards and Honors
 permalink: /resume/awards/
 ---
 
-{% for project in site.data.awards  %}
+{% for medium in site.data.awards %}
+## {{ medium.media }}
+
+{% for project in medium.projects  %}
 {% assign loopindex = forloop.index | modulo: 2 %}
 <article>
     <h3>
@@ -31,9 +34,12 @@ permalink: /resume/awards/
             {% if award.date %} <span class="date">({{ award.date }})</span>{% endif %}
             {% if award.url %}</a>{% endif %}
             {% if award.category %} &mdash; {{ award.category }}{% endif %}
+            {% if award.description %} <span class="desc">({{ award.description }})</span>{% endif %}
         </li>
         {% endfor %}
     </ul>
     {% endif %}
 </article>
+{% endfor %}
+
 {% endfor %}

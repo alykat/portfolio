@@ -1,134 +1,486 @@
-- name: "The Driving Life and Death of Philando Castile"
-  publisher: NPR
-  url: http://www.npr.org/sections/thetwo-way/2016/07/15/485835272/the-driving-life-and-death-of-philando-castile
-  awards:
-    -
-      name: "SND Best of Digital Design"
-      category: "Award of Excellence: Graphics, breaking news"
-      url: http://www.snd.org/2017/02/final-results-best-of-digital-design-2016/
-      date: "2016"
+-   media: "Digital Design"
+    projects:
+    -   name: "The Driving Life and Death of Philando Castile"
+        publisher: NPR
+        url: http://www.npr.org/sections/thetwo-way/2016/07/15/485835272/the-driving-life-and-death-of-philando-castile
+        awards:
+        -   name: "SND Best of Digital Design"
+            category: "Award of Excellence: Graphics, breaking news"
+            url: http://www.snd.org/2017/02/final-results-best-of-digital-design-2016/
+            date: "2016"
 
--   name: 2016 election coverage
-    publisher: NPR
-    url: http://www.npr.org/2016/11/08/500427835/live-blog-election-night-2016
-    role: co-designer/front-end developer
-    awards:
-    -   name: SND Best of Digital Design
-        category: "Award of Excellence: Special events, U.S. elections"
-        url: http://www.snd.org/2017/02/final-results-best-of-digital-design-2016
-        date: 2016
+    -   name: 2016 election coverage
+        publisher: NPR
+        url: http://www.npr.org/2016/11/08/500427835/live-blog-election-night-2016
+        role: co-designer/front-end developer
+        awards:
+        -   name: SND Best of Digital Design
+            category: "Award of Excellence: Special events, U.S. elections"
+            url: http://www.snd.org/2017/02/final-results-best-of-digital-design-2016
+            date: 2016
 
--   name: "A Silent Epidemic"
-    publisher: "NPR"
-    url: http://apps.npr.org/mental-health/
-    role: "co-designer/front-end developer, project manager"
-    awards:
-    -   name: "SND Best of Digital Design"
-        category: "Award of Excellence: Features, single-subject project"
-        url: http://www.snd.org/2017/02/final-results-best-of-digital-design-2016
-        date: 2016
+    -   name: "A Silent Epidemic"
+        publisher: "NPR"
+        url: http://apps.npr.org/mental-health/
+        role: "co-designer/front-end developer, project manager"
+        awards:
+        -   name: "SND Best of Digital Design"
+            category: "Award of Excellence: Features, single-subject project"
+            url: http://www.snd.org/2017/02/final-results-best-of-digital-design-2016
+            date: 2016
 
--   name: "Why America's Schools Have a Money Problem"
-    publisher: "NPR"
-    url: http://www.npr.org/2016/04/18/474256366/why-americas-schools-have-a-money-problem
-    role: "co-designer"
-    awards:
-    -   name: "SND Best of Digital Design"
-        category: "Award of Excellence: Graphics, features and planned coverage"
-        url: http://www.snd.org/2017/02/final-results-best-of-digital-design-2016/
-        date: 2016
+    -   name: "Why America's Schools Have a Money Problem"
+        publisher: "NPR"
+        url: http://www.npr.org/2016/04/18/474256366/why-americas-schools-have-a-money-problem
+        role: "co-designer"
+        awards:
+        -   name: "SND Best of Digital Design"
+            category: "Award of Excellence: Graphics, features and planned coverage"
+            url: http://www.snd.org/2017/02/final-results-best-of-digital-design-2016/
+            date: 2016
 
--   name: "Coal, Gas, Nuclear, Hydro? How Your State Generates Power"
-    publisher: "NPR"
-    url: http://www.npr.org/2015/09/10/319535020/coal-gas-nuclear-hydro-how-your-state-generates-power
-    awards:
-    -   name: "Information Is Beautiful Awards"
-        category: "Short list: Data visualization"
-        url: http://www.informationisbeautifulawards.com/showcase/749-how-each-state-generates-power
-        date: 2015
+    -   name: "Coal, Gas, Nuclear, Hydro? How Your State Generates Power"
+        publisher: "NPR"
+        url: http://www.npr.org/2015/09/10/319535020/coal-gas-nuclear-hydro-how-your-state-generates-power
+        awards:
+        -   name: "Information Is Beautiful Awards"
+            category: "Short list: Data visualization"
+            url: http://www.informationisbeautifulawards.com/showcase/749-how-each-state-generates-power
+            date: 2015
 
--   name: "NPR Election Party"
-    publisher: "NPR"
-    url: http://elections2014.npr.org
-    role: "co-designer/front-end developer"
-    awards:
-    -   name: "ONA Online Journalism Awards"
-        category: "Finalist: Planned News/Events, Large"
-        url: http://journalists.org/2015/08/11/2015-online-journalism-awards-finalists-announced
-        date: 2015
-    -   name: "SND Best of Digital Design"
-        category: "Silver Medal: Special Events, Large"
-        url: http://www.snd.org/2015/03/winners-list-2014-best-of-digital-design-competition/
-        date: 2014
+    -   name: "NPR Election Party"
+        publisher: "NPR"
+        url: http://elections2014.npr.org
+        role: "co-designer/front-end developer"
+        awards:
+        -   name: "ONA Online Journalism Awards"
+            category: "Finalist: Planned News/Events, Large"
+            url: http://journalists.org/2015/08/11/2015-online-journalism-awards-finalists-announced
+            date: 2015
+        -   name: "SND Best of Digital Design"
+            category: "Silver Medal: Special Events, Large"
+            url: http://www.snd.org/2015/03/winners-list-2014-best-of-digital-design-competition/
+            date: 2014
 
--   name: "NPR Visuals team portfolio"
-    publisher: "NPR"
-    url: http://blog.apps.npr.org/apps/
-    awards:
-    -   name: "SND Best of Digital Design"
-        category: "Silver Medal: Portfolios: Organization, Large"
-        url: http://www.snd.org/2015/03/winners-list-2014-best-of-digital-design-competition/
-        date: 2014
+    -   name: "NPR Visuals team portfolio"
+        publisher: "NPR"
+        url: http://blog.apps.npr.org/apps/
+        awards:
+        -   name: "SND Best of Digital Design"
+            category: "Silver Medal: Portfolios: Organization, Large"
+            url: http://www.snd.org/2015/03/winners-list-2014-best-of-digital-design-competition/
+            date: 2014
 
--   name: "Deals for Developers"
-    publisher: "NPR"
-    url: http://apps.npr.org/deals-for-developers-wamu/
-    role: "designer"
-    awards:
-    -   name: "Data Journalism Awards"
-        category: "Finalist: Data-Driven Investigation"
-        url: http://www.globaleditorsnetwork.org/programmes/data-journalism-awards/
-        date: 2014
+    -   name: "Deals for Developers"
+        publisher: "NPR"
+        url: http://apps.npr.org/deals-for-developers-wamu/
+        role: "designer"
+        awards:
+        -   name: "Data Journalism Awards"
+            category: "Finalist: Data-Driven Investigation"
+            url: http://www.globaleditorsnetwork.org/programmes/data-journalism-awards/
+            date: 2014
 
--   name: "Planet Money Makes A T-Shirt"
-    publisher: "NPR"
-    url: http://apps.npr.org/tshirt/
-    role: "co-designer / front-end developer"
-    awards:
-    -   name: "35th Annual News and Documentary Emmy Awards"
-        category: "Emmy Winner: New Approaches, Documentaries"
-        url: http://emmyonline.org/news_35th_winners
-        date: 2014
-    -   name: "Online Journalism Awards"
-        category: "Winner: Excellence and Innovation in Visual Digital Storytelling, Large; Winner: Feature, Large; Finalist: Explanatory Reporting, Large"
-        url: http://journalists.org/2014/09/27/seattle-times-pro-publica-npr-take-home-2014-online-journalism-awards/
-        date: 2014
-    -   name: "Gerald Loeb Awards"
-        category: "Online Winner"
-        url: http://www.businesswire.com/news/home/20140624006875/en/UCLA-Anderson-School-Management-Announces-2014-Gerald
-        date: 2014
-    -   name: "Overseas Press Club Awards"
-        category: "Winner: Best Multimedia News Presentation"
-        url: https://www.opcofamerica.org/awards/20-best-multimedia-news-presentation-0
-        date: 2013
-    -   name: "SPJ Sigma Delta Chi Awards"
-        category: "Winner: Specialized Journalism Site"
-        url: https://www.spj.org/sdxa13.asp
-        date: 2013
-    -   name: "SND Best of Digital Design"
-        category: "Gold Medal: Single-Story Project; Silver Medal: Use of Multimedia"
-        url: http://www.snd.org/2014/03/snd35-a-list-of-the-best-of-digital-design-award-winners/
-        date: 2014
-    -   name: "Scripps Howard Awards"
-        category: "Winner: Digital Innovation"
-        url: http://www.prnewswire.com/news-releases/scripps-howard-awards-honor-nations-best-2013-journalism-251266701.html
-        date: 2014
-    -   name: "Pictures of the Year International"
-        category: "Winner: Documentary Project of the Year"
-        url: http://poyi.org/71/44/index.php
-        date: 2014
-    -   name: "Pictures of the Year International"
-        category: "First Place: Documentary Journalism"
-        url: http://poyi.org/71/23/index.php
-        date: 2014
-    -   name: "SABEW Best in Business awards"
-        category: "Winner: Innovation"
-        url: http://sabew.org/2014/02/2013-bib-winners-list/
-        date: 2013
-    -   name: "White House News Photographers Association Eyes of History Contest"
-        category: "First Place: Innovation"
-        url: http://www.whnpa.org/contests/multimedia-contest/2014-eyes-of-history-new-media-editing-contest/
-        date: 2014
+    -   name: "Planet Money Makes A T-Shirt"
+        publisher: "NPR"
+        url: http://apps.npr.org/tshirt/
+        role: "co-designer / front-end developer"
+        awards:
+        -   name: "35th Annual News and Documentary Emmy Awards"
+            category: "Emmy Winner: New Approaches, Documentaries"
+            url: http://emmyonline.org/news_35th_winners
+            date: 2014
+        -   name: "Online Journalism Awards"
+            category: "Winner: Excellence and Innovation in Visual Digital Storytelling, Large | Winner: Feature, Large | Finalist: Explanatory Reporting, Large"
+            url: http://journalists.org/2014/09/27/seattle-times-pro-publica-npr-take-home-2014-online-journalism-awards/
+            date: 2014
+        -   name: "Gerald Loeb Awards"
+            category: "Online Winner"
+            url: http://www.businesswire.com/news/home/20140624006875/en/UCLA-Anderson-School-Management-Announces-2014-Gerald
+            date: 2014
+        -   name: "Overseas Press Club Awards"
+            category: "Winner: Best Multimedia News Presentation"
+            url: https://www.opcofamerica.org/awards/20-best-multimedia-news-presentation-0
+            date: 2013
+        -   name: "SPJ Sigma Delta Chi Awards"
+            category: "Winner: Specialized Journalism Site"
+            url: https://www.spj.org/sdxa13.asp
+            date: 2013
+        -   name: "SND Best of Digital Design"
+            category: "Gold Medal: Single-Story Project | Silver Medal: Use of Multimedia"
+            url: http://www.snd.org/2014/03/snd35-a-list-of-the-best-of-digital-design-award-winners/
+            date: 2014
+        -   name: "Scripps Howard Awards"
+            category: "Winner: Digital Innovation"
+            url: http://www.prnewswire.com/news-releases/scripps-howard-awards-honor-nations-best-2013-journalism-251266701.html
+            date: 2014
+        -   name: "Pictures of the Year International"
+            category: "Winner: Documentary Project of the Year | First Place: Documentary Journalism"
+            url: http://poyi.org/71/44/index.php
+            date: 2014
+        -   name: "SABEW Best in Business awards"
+            category: "Winner: Innovation"
+            url: http://sabew.org/2014/02/2013-bib-winners-list/
+            date: 2013
+        -   name: "White House News Photographers Association Eyes of History Contest"
+            category: "First Place: Innovation"
+            url: http://www.whnpa.org/contests/multimedia-contest/2014-eyes-of-history-new-media-editing-contest/
+            date: 2014
+
+    -   name: "Zoom In On Oklahoma Tornado Damage"
+        publisher: "NPR"
+        url: http://apps.npr.org/moore-oklahoma-tornado-damage/
+        role: "designer"
+        awards:
+        -   name: "SND Best of Digital Design"
+            category: "Award of Excellence: Breaking or Daily News, Single-Subject Project | Award of Excellence: Breaking or Daily News, Data Project"
+            url: http://www.snd.org/2014/03/snd35-a-list-of-the-best-of-digital-design-award-winners
+            date: 2014
+
+    -   name: "Playgrounds For Everyone"
+        publisher: "NPR"
+        url: http://apps.npr.org/playgrounds/
+        role: "co-designer"
+        awards:
+        -   name: "SND Best of Digital Design"
+            category: "Award of Excellence: Features, Data Project"
+            url: http://www.snd.org/2014/03/snd35-a-list-of-the-best-of-digital-design-award-winners/
+            date: 2014
+
+    -   name: "Previously, On Arrested Development"
+        publisher: "NPR"
+        url: http://apps.npr.org/arrested-development/
+        role: "co-designer"
+        awards:
+        -   name: "SND Best of Digital Design"
+            category: "Award of Excellence: Features, Single-Story Project"
+            url: http://www.snd.org/2014/03/snd35-a-list-of-the-best-of-digital-design-award-winners/
+            date: 2014
+
+    -   name: "NPR Music Presents: In Memoriam 2012"
+        publisher: "NPR"
+        url: http://apps.npr.org/music-memoriam-2012/
+        role: "designer"
+        awards:
+        -   name: "SND Best of Digital Design"
+            category: "Award of Excellence: Use of Multimedia"
+            url: http://www.snd.org/2013/02/snd34-best-of-digital-design-unofficial-results-including-awards-of-excellence-and-medal-winners/
+            date: 2013
+
+    -   name: "Election 2012"
+        publisher: "NPR"
+        url: http://election2012.npr.org
+        role: "designer"
+        awards:
+        -   name: "SND Best of Digital Design"
+            category: "Award of Excellence: Single-Story Project"
+            url: http://www.snd.org/2013/02/snd34-best-of-digital-design-unofficial-results-including-awards-of-excellence-and-medal-winners/
+            date: 2013
+
+    -   name: "Black Lung Returns To Coal Country"
+        publisher: "NPR"
+        url: http://www.npr.org/series/156453033/black-lung-returns-to-coal-country
+        role: "designer / infographics"
+        awards:
+        -   name: "IRE Awards"
+            category: "Finalist: Multiplatform (Large)"
+            url: http://ire.org/awards/ire-awards/winners/2012-ire-award-winners/
+            date: 2012
+
+    -   name: "Poisoned Places: Toxic Air, Neglected Communities"
+        publisher: "NPR"
+        url: http://www.npr.org/series/142000896/poisoned-places-toxic-air-neglected-communities
+        role: "co-designer"
+        awards:
+        -   name: "National Association of Science Writers"
+            category: "Science in Society Journalism Award: Science Reporting"
+            url: https://www.nasw.org/science-society-winners-announced
+            date: 2012
+        -   name: "Newspaper Guild-CWA"
+            category: "Heywood Broun Award of Distinction"
+            url: http://www.newsguild.org/node/2460
+            date: 2012
+        -   name: "Investigative Reporters and Editors"
+            category: "IRE Award: Finalist: Multiplatform, Large"
+            url: http://ire.org/awards/ire-awards/winners/2011-ire-awards-winners/
+            date: 2011
+        -   name: "Society of Professional Journalists"
+            category: "Sigma Delta Chi Award: Public Service in Online Journalism (Independent)"
+            url: http://www.spj.org/sdxa11.asp#online
+            date: 2012
+        -   name: "Joan Shorenstein Center on the Press, Politics and Public Policy, Harvard Kennedy School"
+            category: "Finalist, Goldsmith Prize for Investigative Reporting"
+            url: http://www.hks.harvard.edu/presspol/prizes_lectures/goldsmith_awards/investigative_reporting.html#2012
+            date: 2012
+
+    -   name: "Post Mortem: Death Investigation in America"
+        publisher: "NPR, PBS Frontline"
+        url: http://www.npr.org/series/133208980/post-mortem-death-investigation-in-america
+        role: "co-designer"
+        awards:
+        -   name: "Investigative Reporters and Editors"
+            category: "IRE Award: Multiplatform, Large"
+            url: http://ire.org/awards/ire-awards/winners/2011-ire-awards-winners/
+            date: 2011
+
+    -   name: "Election 2010 Coverage"
+        publisher: "NPR"
+        url: http://www.npr.org/series/elections/
+        awards:
+        -   name: "Webby Awards"
+            category: "People's Voice Winner: Politics"
+            url: http://www.webbyawards.com/webbys/current.php?season=15#webby_entry_politics
+            date: 2011
+
+    -   name: "NPR.org"
+        publisher: "NPR"
+        url: http://www.npr.org
+        awards:
+        -   name: "Radio Television Digital News Association"
+            category: "National Edward R. Murrow Award - Web Site"
+            url: http://www.rtdna.org/pages/media_items/2011-national-edward-r.-murrow-award-winners2028.php
+            date: "2010-2014"
+        -   name: "SND Best of Digital Design"
+            category: "Judge's Special Recognition"
+            url: http://www.snd.org/2011/03/digital-winners/
+            date: 2011
+        -   name: "National Press Foundation"
+            category: "Excellence in Online Journalism Award"
+            url: http://nationalpress.org/awards/winner/npr.org/
+            date: 2010
+        -   name: "Editor and Publisher EPpy Awards"
+            category: "Best News Web Site (More Than 1 Million Unique Monthly Visitors) | Best Entertainment Web Site (More Than 1 Million Unique Monthly Visitors) | Best Network or Syndicated Radio-Affiliated Website"
+            url: http://www.editorandpublisher.com/Headlines/2010-eppy-winners-announced-at-interactive-conference-61720-.aspx
+            date: 2010
+        -   name: "Peabody Award"
+            url: http://www.peabodyawards.com/award-profile/npr.org
+            date: 2009
+
+    -   name: "A Web of GOP Influence"
+        publisher: "NPR"
+        url: http://www.npr.org/templates/story/story.php?storyId=130845545
+        role: "co-designer"
+        awards:
+        -   name: "SND Best of Digital Design"
+            category: "Winner: Information Graphics, More Than 50m"
+            url: http://www.snd.org/2011/03/digital-winners/
+            date: 2011
+
+    -   name: "Planet Money's Toxic Asset"
+        publisher: "NPR"
+        url: http://www.npr.org/series/124587240/planet-money-s-toxic-asset
+        role: "co-designer"
+        awards:
+        -   name: "White House News Photographers Association Eyes of History Contest"
+            category: "First Place: Multimedia Innovation"
+            url: http://www.whnpa.org/contest/eyes2011/newmedia/innovation/
+            date: 2011
+
+    -   name: "Traveling Down The Amazon Road"
+        publisher: "NPR"
+        url: http://www.npr.org/templates/story/story.php?storyId=112489035
+        role: "co-designer"
+        awards:
+        -   name: "White House News Photographers Association Eyes of History Contest"
+            category: "Award of Excellence, Best Multimedia Package - In Depth"
+            url: http://blog.whnpa.org/post/389632197/new-media-contest-results
+            date: 2010
+
+    -   name: "Fixing D.C.'s Schools"
+        publisher: "The Washington Post"
+        url: http://www.washingtonpost.com/wp-srv/metro/interactives/dcschools/
+        role: "Designed school database pages"
+        awards:
+        -   name: "SND Best of Multimedia Design Competition"
+            category: "Monthly Winner"
+            url: https://www.snd.org/competitions/sndies.lasso?ID=2064
+            date: "June 2007"
+
+    -   name: "washingtonpost.com"
+        url: http://www.washingtonpost.com
+        awards:
+        -   name: "Editor and Publisher EPpy Awards"
+            category: "First Place: Best Design of a Media-Affiliated Web Site (more than one million unique visitors per month)"
+            url: http://www.editorandpublisher.com/eandp/search/article_display.jsp?vnu_content_id=1003590171
+            date: 2007
+        -   name: "Editor and Publisher EPpy Awards"
+            category: "First Place: Best Overall Design of an Internet Service over 1 million"
+            date: 2005
+
+    -   name: "Campaign 2006: Key Races"
+        publisher: "washingtonpost.com"
+        url: http://www.washingtonpost.com/wp-srv/politics/interactives/campaign06/keyraces.html
+        awards:
+        -   name: "SND.ies, SND Best of New Media Design Competition"
+            category: "Monthly Winner: Non-Breaking Presentations, News"
+            url: https://www.snd.org/competitions/sndies.lasso?ID=34598
+            date: "August 2006"
+
+    -   name: "Crisis in the Middle East"
+        publisher: "washingtonpost.com"
+        url: http://www.washingtonpost.com/wp-srv/world/interactives/mideastattacks/israelmap.html
+        awards:
+        -   name: "SND.ies, SND Best of New Media Design Competition"
+            category: "Monthly Winner: Breaking Presentations, News"
+            url: https://www.snd.org/competitions/sndies.lasso?ID=34600
+            date: "August 2006"
+
+    -   name: "Faces of the Fallen"
+        publisher: "washingtonpost.com"
+        url: http://projects.washingtonpost.com/fallen/
+        role: "co-designer"
+        awards:
+        -   name: "SND.ies, SND Best of New Media Design Competition"
+            category: "Monthly Winner: Features"
+            url: https://www.snd.org/competitions/sndies.lasso?ID=34500
+            date: "June 2006"
+
+    -   name: "A Life Lived in 4/4 Time"
+        publisher: "washingtonpost.com"
+        url: http://www.washingtonpost.com/wp-srv/metro/interactives/jazz/
+        awards:
+        -   name: "SND.ies, SND Best of New Media Design Competition"
+            category: "Finalist: Features, Non-Breaking"
+            url: http://www.sndies.com/finalists.html
+            date: 2006
+        -   name: "SND.ies, SND Best of New Media Design Competition"
+            category: "Monthly Winner"
+            url: http://www.snd.org/competitions/sndies.lasso?ID=34285
+            date: "August 2005"
+
+    -   name: "The Gulf Coast in Katrina's Wake"
+        publisher: "washingtonpost.com"
+        url: http://www.washingtonpost.com/wp-dyn/content/custom/2005/09/01/CU2005090101358.html
+        role: "co-designer"
+        awards:
+        -   name: "SND.ies, SND Best of New Media Design Competition"
+            category: "Finalist: News, Breaking"
+            url: http://www.sndies.com/finalists.html
+            date: 2006
+        -   name: "SND.ies, SND Best of New Media Design Competition"
+            category: "Monthly Winner"
+            url: http://www.snd.org/competitions/sndies.lasso?ID=34302
+            date: "September 2005"
+
+    -   name: "How a Pope is Elected"
+        publisher: "washingtonpost.com"
+        url: http://www.washingtonpost.com/wp-srv/world/interactives/johnpaul/popeelect.html
+        role: "co-designer"
+        awards:
+        -   name: "SND.ies, SND Best of New Media Design Competition"
+            category: "Monthly Winner"
+            url: http://www.snd.org/competitions/sndies.lasso?ID=34196
+            date: "June 2005"
+
+    -   name: "Golf Guide"
+        publisher: "washingtonpost.com"
+        url: http://www.washingtonpost.com/wp-srv/health/specials/golf/
+        awards:
+        -   name: "SND.ies, SND Best of New Media Design Competition"
+            category: "Monthly Winner"
+            url: http://www.snd.org/competitions/sndies.lasso?ID=34203
+            date: "June 2005"
+
+    -   name: "azcentral.com"
+        publisher: "The Arizona Republic"
+        url: http://www.azcentral.com
+        awards:
+        -   name: "Editor and Publisher EPpy Awards"
+            category: "Finalist: Best Overall Design of an Internet Service over 1 million"
+            date: 2005
+
+    -   name: "Runaway Inferno"
+        publisher: "The Arizona Republic"
+        awards:
+        -   name: "NAA Digital Edge Awards"
+            category: "Finalist: Most Innovative Use of Digital Media - News Event Coverage"
+            date: 2003
+        -   name: "Arizona Press Club Awards"
+            category: "Second Place: Creative Use of the Online Medium"
+            date: 2002
+
+    -   name: "sports.azcentral.com"
+        publisher: "The Arizona Republic"
+        awards:
+        -   name: "Arizona Press Club Awards"
+            category: "Third Place: Creative Use of Online"
+            description: "This award recognized azcentral.com's online coverage of Pat Tillman, the 2004 Cactus League and the 2004 Olympics. I worked on the latter project."
+            date: 2004
+        -   name: "NAA Digital Edge Awards"
+            category: "Finalist: Best Sports Site"
+            date: 2003
+
+    -   name: "Dying to Work"
+        publisher: "The Arizona Republic"
+        awards:
+        -   name: "Best of the West"
+            category: "First Place: Online Project Enterprise"
+            date: 2001
+        -   name: "Best of Gannett Awards"
+            category: "First Place: Project Enterprise"
+            date: 2001
+
+    -   name: "The Rep Entertainment Guide"
+        publisher: "The Arizona Republic"
+        awards:
+        -   name: "Editor &amp; Publisher EPpy Awards"
+            category: "Finalist: Best Internet Entertainment Service over 1 million"
+            date: 2005
+        -   name: "Editor &amp; Publisher EPpy Awards"
+            category: "Finalist: Best Entertainment Section in a Newspaper Online Service"
+            date: "2001 and 2002"
+
+-   media: "Digital Design (College)"
+    projects:
+    -   name: "statepress.com"
+        publisher: "The State Press/Arizona State University"
+        awards:
+        -   name: "Society for Professional Journalists Awards"
+            category: "Second place: Best Student Online Newspaper, Region 11"
+            date: "1999 and 2000"
+
+-   media: "Print Design (College)"
+    projects:
+    -   awards:
+        -   name: "Columbia Scholastic Press Association Gold Circle Awards"
+            category: "Honorable mention: Feature Page Design, Single-Subject Presentation"
+            date: 2000
+        -   name: "Columbia Scholastic Press Association Gold Circle Awards"
+            category: "3rd Place, Best Advertisement Design - Slices"
+            date: 1999
+
+-   media: "Writing (College, High School)"
+    projects:
+    -   awards:
+        -   name: "Columbia Scholastic Press Association Gold Circle Awards"
+            category: "Honorable mention: In-depth News/Feature"
+            date: 2000
+        -   name: "Arizona Press Women High School Journalism Contest"
+            category: "Third place: Editorial Writing; Honorable mention: Newswriting"
+            date: 1997
+        -   name: "Kaplan/Newsweek \"My Turn\" essay contest"
+            category: "Honorable Mention"
+            date: 1997
+
+-   media: "Academic (College, High School)"
+    projects:
+    -   awards:
+        -   name: "The Arizona Republic, ASU Cronkite School"
+            category: "Eugene C. Pulliam Memorial Scholarship"
+            date: 1998
+        -   name: "Arizona State University, National Merit Corporation"
+            category: "National Merit Scholarship"
+            date: "1997-2001"
+        -   name: "Arizona State University"
+            category: "Regent's Tuition Scholarship"
+            description: "awarded to top 5% of high school graduating class"
+            date: "1997-2001"
+        -   name: "The Arizona Republic, ASU Cronkite School"
+            category: "Summer Journalism Institute"
+            date: 1997
+        -   name: "Columbia Scholastic Press Association national competition"
+            category: "Silver Medal Award, The Summit (Mountain View High School Yearbook)"
+            date: 1997
 
 # -   name: "TKTK"
 #     publisher: "TKTKTK"
