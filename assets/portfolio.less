@@ -1,0 +1,112 @@
+@import url("https://use.typekit.net/zpu2ejj.css");
+@import "reset.css";
+
+@color1:    #14272d; // darkest
+@color2:    #3a8799; // peacock
+@color3:    #aa7b48; // brown
+@color4:    #f0d2c0; // beige
+@color5:    #f9fbfd; // backgrounds
+
+body {
+    background-color: #f7f7f7;
+    // background-color: @color5;
+    font: 10px/1.4 Helvetica, Arial, sans-serif;
+    color: #666;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "dapifer", Georgia, serif;
+    font-weight: 400;
+    margin: 0 0 1rem 0;
+}
+
+h1 { font-size: 3rem; }
+h2 {
+    font-size: 1.5rem;
+    color: @color3;
+}
+h3 {
+    font-size: 1.1rem;
+    margin-bottom: 0.5rem;
+}
+
+p {
+    font-size: 0.85rem;
+    margin-bottom: 1rem;
+}
+
+ul {
+    margin-bottom: 1rem;
+
+    li {
+        font-size: 0.85rem;
+        margin: 0 0 .5rem 0;
+
+        &:last-child { margin-bottom: 0; }
+    }
+}
+
+a, a:link {
+    text-decoration: none;
+    color: @color2;
+}
+a:visited {
+    color: darken(@color2, 20%);
+}
+a:hover, a:active {
+    color: lighten(@color2, 20%);
+    border-bottom: 1px solid lighten(@color2, 20%);
+    transition: color .25s, border-bottom .25s;
+}
+
+main {
+    max-width: 650px;
+    margin: 0 auto;
+}
+
+header {
+    &.post-header {
+        background-color: @color1;
+        margin-left: -1rem;
+        margin-right: -1rem;
+        padding: 1rem;
+        margin-bottom: 2rem;
+
+        h1, h2, h3, h4, h5, h6 { color: #fff; }
+    }
+}
+
+// awards page
+.awards {
+    section {
+        border-top: 1px solid @color4;
+        margin-top: 0;
+        margin-bottom: 0;
+        margin-left: -1rem;
+        margin-right: -1rem;
+        padding: 0.5rem 1rem;
+        opacity: 0.8;
+
+        &.feature {
+            // background-color: lighten(@color3, 20%);
+            background-color: @color5;
+            border: none;
+            margin-top: 0.5rem;
+            margin-bottom: 0.5rem;
+            opacity: 1;
+            padding-top: 1rem;
+            padding-bottom: 1rem;
+
+            + .nofeature { border: none; }
+        }
+
+        p { margin-bottom: .5rem; }
+        ul {
+            list-style-type: disc;
+            margin-bottom: 0;
+            margin-left: 1rem;
+        }
+    }
+
+    h2 { margin-top: 2.5rem; }
+}

@@ -29,7 +29,7 @@
             url: http://www.snd.org/2017/02/final-results-best-of-digital-design-2016
             date: 2016
 
-    -   name: "Why America's Schools Have a Money Problem"
+    -   name: "Why America&rsquo;s Schools Have a Money Problem"
         publisher: "NPR"
         url: http://www.npr.org/2016/04/18/474256366/why-americas-schools-have-a-money-problem
         role: "co-designer"
@@ -52,6 +52,7 @@
         publisher: "NPR"
         url: http://elections2014.npr.org
         role: "co-designer/front-end developer"
+        feature: true
         awards:
         -   name: "ONA Online Journalism Awards"
             category: "Finalist: Planned News/Events, Large"
@@ -65,6 +66,7 @@
     -   name: "NPR Visuals team portfolio"
         publisher: "NPR"
         url: http://blog.apps.npr.org/apps/
+        feature: true
         awards:
         -   name: "SND Best of Digital Design"
             category: "Silver Medal: Portfolios: Organization, Large"
@@ -85,6 +87,7 @@
         publisher: "NPR"
         url: http://apps.npr.org/tshirt/
         role: "co-designer / front-end developer"
+        feature: true
         awards:
         -   name: "35th Annual News and Documentary Emmy Awards"
             category: "Emmy Winner: New Approaches, Documentaries"
@@ -228,20 +231,21 @@
         url: http://www.npr.org/series/elections/
         awards:
         -   name: "Webby Awards"
-            category: "People's Voice Winner: Politics"
+            category: "People&rsquo;s Voice Winner: Politics"
             url: http://www.webbyawards.com/webbys/current.php?season=15#webby_entry_politics
             date: 2011
 
     -   name: "NPR.org"
         publisher: "NPR"
         url: http://www.npr.org
+        feature: true
         awards:
         -   name: "Radio Television Digital News Association"
             category: "National Edward R. Murrow Award - Web Site"
             url: http://www.rtdna.org/pages/media_items/2011-national-edward-r.-murrow-award-winners2028.php
             date: "2010-2014"
         -   name: "SND Best of Digital Design"
-            category: "Judge's Special Recognition"
+            category: "Judge&rsquo;s Special Recognition"
             url: http://www.snd.org/2011/03/digital-winners/
             date: 2011
         -   name: "National Press Foundation"
@@ -260,16 +264,18 @@
         publisher: "NPR"
         url: http://www.npr.org/templates/story/story.php?storyId=130845545
         role: "co-designer"
+        feature: true
         awards:
         -   name: "SND Best of Digital Design"
             category: "Winner: Information Graphics, More Than 50m"
             url: http://www.snd.org/2011/03/digital-winners/
             date: 2011
 
-    -   name: "Planet Money's Toxic Asset"
+    -   name: "Planet Money&rsquo;s Toxic Asset"
         publisher: "NPR"
         url: http://www.npr.org/series/124587240/planet-money-s-toxic-asset
         role: "co-designer"
+        feature: true
         awards:
         -   name: "White House News Photographers Association Eyes of History Contest"
             category: "First Place: Multimedia Innovation"
@@ -286,7 +292,7 @@
             url: http://blog.whnpa.org/post/389632197/new-media-contest-results
             date: 2010
 
-    -   name: "Fixing D.C.'s Schools"
+    -   name: "Fixing D.C.&rsquo;s Schools"
         publisher: "The Washington Post"
         url: http://www.washingtonpost.com/wp-srv/metro/interactives/dcschools/
         role: "Designed school database pages"
@@ -348,7 +354,7 @@
             url: http://www.snd.org/competitions/sndies.lasso?ID=34285
             date: "August 2005"
 
-    -   name: "The Gulf Coast in Katrina's Wake"
+    -   name: "The Gulf Coast in Katrina&rsquo;s Wake"
         publisher: "washingtonpost.com"
         url: http://www.washingtonpost.com/wp-dyn/content/custom/2005/09/01/CU2005090101358.html
         role: "co-designer"
@@ -404,7 +410,7 @@
         awards:
         -   name: "Arizona Press Club Awards"
             category: "Third Place: Creative Use of Online"
-            description: "This award recognized azcentral.com's online coverage of Pat Tillman, the 2004 Cactus League and the 2004 Olympics. I worked on the latter project."
+            description: "This award recognized azcentral.com&rsquo;s online coverage of Pat Tillman, the 2004 Cactus League and the 2004 Olympics. I worked on the latter project."
             date: 2004
         -   name: "NAA Digital Edge Awards"
             category: "Finalist: Best Sports Site"
@@ -472,7 +478,7 @@
             category: "National Merit Scholarship"
             date: "1997-2001"
         -   name: "Arizona State University"
-            category: "Regent's Tuition Scholarship"
+            category: "Regent&rsquo;s Tuition Scholarship"
             description: "awarded to top 5% of high school graduating class"
             date: "1997-2001"
         -   name: "The Arizona Republic, ASU Cronkite School"
@@ -487,6 +493,7 @@
 #     description: "TKTKTK"
 #     url: TKTKTK
 #     role: "TKTKTK"
+#     feature: false
 #     awards:
 #     -   name: "TKTKTK"
 #         category: "TKTKTK"

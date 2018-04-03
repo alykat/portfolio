@@ -26,9 +26,11 @@ github_username:  alykat
 # Build settings
 highlighter: rouge
 markdown: kramdown
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
+  # - jekyll-less
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

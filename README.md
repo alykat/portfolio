@@ -41,6 +41,15 @@ Install Jekyll:
 gem install jekyll
 ```
 
+Ruby gem for a Jekyll LESS converter:
+
+```
+gem install libv8
+gem install therubyracer
+gem install jekyll-less
+```
+
 ## Documentation
 
 * [Jekyll Quick Start Guide](https://jekyllrb.com/docs/quickstart/)
+* [jekyll-less](https://github.com/zroger/jekyll-less)

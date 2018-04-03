@@ -1,5 +1,6 @@
 ---
 layout: page
+id: awards
 title: Awards and Honors
 permalink: /resume/awards/
 ---
@@ -9,11 +10,9 @@ permalink: /resume/awards/
 
 {% for project in medium.projects  %}
 {% assign loopindex = forloop.index | modulo: 2 %}
-<article>
+<section class="{% if project.feature == true %}feature{% else %}nofeature{% endif %}">
     <h3>
-        {% if project.url %}<a href="{{ project.url }}">{% endif %}
-        {{ project.name }}
-        {% if project.url %}</a>{% endif %}
+        {% if project.url %}<a href="{{ project.url }}">{% endif %}{{ project.name }}{% if project.url %}</a>{% endif %}
         {% if project.publisher %} <span class="publisher">({{ project.publisher }})</span>{% endif %}
     </h3>
 
@@ -22,7 +21,7 @@ permalink: /resume/awards/
     {% endif %}
 
     {% if project.role %}
-    <p>Role: {{ project.role }}</p>
+    <p>My role: {{ project.role }}</p>
     {% endif %}
 
     {% if project.awards != null %}
@@ -39,7 +38,7 @@ permalink: /resume/awards/
         {% endfor %}
     </ul>
     {% endif %}
-</article>
+</section>
 {% endfor %}
 
 {% endfor %}

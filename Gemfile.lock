@@ -4,6 +4,7 @@ GEM
     addressable (2.5.2)
       public_suffix (>= 2.0.2, < 4.0)
     colorator (1.1.0)
+    commonjs (0.2.7)
     concurrent-ruby (1.0.5)
     em-websocket (0.5.1)
       eventmachine (>= 0.12.9)
@@ -29,6 +30,9 @@ GEM
       safe_yaml (~> 1.0)
     jekyll-feed (0.9.3)
       jekyll (~> 3.3)
+    jekyll-less (0.0.4)
+      jekyll (>= 0.10.0)
+      less (>= 2.0.5)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
     jekyll-seo-tag (2.4.0)
@@ -36,6 +40,9 @@ GEM
     jekyll-watch (2.0.0)
       listen (~> 3.0)
     kramdown (1.16.2)
+    less (2.6.0)
+      commonjs (~> 0.2.7)
+    libv8 (3.16.14.19-x86_64-darwin-15)
     liquid (4.0.0)
     listen (3.1.5)
       rb-fsevent (~> 0.9, >= 0.9.4)
@@ -52,6 +59,7 @@ GEM
     rb-fsevent (0.10.3)
     rb-inotify (0.9.10)
       ffi (>= 0.5.0, < 2)
+    ref (2.0.0)
     rouge (3.1.1)
     ruby_dep (1.5.0)
     safe_yaml (1.0.4)
@@ -60,6 +68,9 @@ GEM
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
+    therubyracer (0.12.3)
+      libv8 (~> 3.16.14.15)
+      ref
 
 PLATFORMS
   ruby
@@ -67,7 +78,9 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 3.7.3)
   jekyll-feed (~> 0.6)
+  jekyll-less
   minima (~> 2.0)
+  therubyracer
   tzinfo-data
 
 BUNDLED WITH
