@@ -29,7 +29,7 @@ markdown: kramdown
 # theme: minima
 plugins:
   - jekyll-feed
-  # - jekyll-less
+  - jekyll-less
 
 
 # Exclude from processing.
