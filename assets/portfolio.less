@@ -16,25 +16,41 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
     font-family: "dapifer", Georgia, serif;
-    font-weight: 500;
+    font-weight: 300;
     margin: 0 0 1rem 0;
 }
 
-h1 { font-size: 3rem; }
+h1 {
+    font-size: 3rem;
+    font-weight: 600;
+}
 h2 {
     color: @color3;
     // color: darken(@color3, 15%);
     font-size: 1.5rem;
+    font-weight: 600;
 }
 h3 {
     // color: @color3;
     font-size: 1.1rem;
     margin-bottom: 0.5rem;
+    font-weight: 600;
+}
+h4 {
+    font-size: 1.0rem;
+    font-style: italic;
+
+    h3 + & {
+        margin-top: -0.25rem;
+        margin-bottom: 0.5rem;
+    }
 }
 
 p {
     font-size: 0.85rem;
     margin-bottom: 1rem;
+
+    + p { margin-top: -0.7rem; }
 }
 
 ul {
