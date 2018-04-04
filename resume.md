@@ -1,5 +1,6 @@
 ---
 layout: page
+id: resume
 title: Resume
 permalink: /resume/
 ---
@@ -66,6 +67,7 @@ Magna Cum Laude
 --------
 
 ## Awards and Honors
+#### Highlights:
 
 * **Emmy Award** and **SND Best of Digital Design gold medal** for ["Planet Money Makes a T-Shirt"](http://apps.npr.org/tshirt/) (2013)
 * **SND Best of Digital Design silver medal** for "NPR Election Party" and the NPR Visuals team portfolio (2014)

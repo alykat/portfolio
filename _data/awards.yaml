@@ -254,7 +254,7 @@
             date: 2010
         -   name: "Editor and Publisher EPpy Awards"
             category: "Best News Web Site (More Than 1 Million Unique Monthly Visitors) | Best Entertainment Web Site (More Than 1 Million Unique Monthly Visitors) | Best Network or Syndicated Radio-Affiliated Website"
-            url: http://www.editorandpublisher.com/Headlines/2010-eppy-winners-announced-at-interactive-conference-61720-.aspx
+            url: http://www.eppyawards.com/Content/Past_2010_Winners-26-.aspx
             date: 2010
         -   name: "Peabody Award"
             url: http://www.peabodyawards.com/award-profile/npr.org
@@ -264,7 +264,6 @@
         publisher: "NPR"
         url: http://www.npr.org/templates/story/story.php?storyId=130845545
         role: "co-designer"
-        feature: true
         awards:
         -   name: "SND Best of Digital Design"
             category: "Winner: Information Graphics, More Than 50m"
@@ -307,10 +306,15 @@
         awards:
         -   name: "Editor and Publisher EPpy Awards"
             category: "First Place: Best Design of a Media-Affiliated Web Site (more than one million unique visitors per month)"
-            url: http://www.editorandpublisher.com/eandp/search/article_display.jsp?vnu_content_id=1003590171
+            url: http://www.eppyawards.com/Content/Past_2007_Winners-11-.aspx
             date: 2007
         -   name: "Editor and Publisher EPpy Awards"
-            category: "First Place: Best Overall Design of an Internet Service over 1 million"
+            category: "Best Overall Newspaper-Affiliated Internet Service with over 1 million unique monthly visitors"
+            url: http://www.eppyawards.com/Content/Past_2006_Winners-12-.aspx
+            date: 2006
+        -   name: "Editor and Publisher EPpy Awards"
+            category: "First Place: Best Overall Design of an Internet Service over 1 million monthly visitors"
+            url: http://www.eppyawards.com/Content/Past_2005_Winners-13-.aspx
             date: 2005
 
     -   name: "Campaign 2006: Key Races"
@@ -395,7 +399,7 @@
             category: "Finalist: Best Overall Design of an Internet Service over 1 million"
             date: 2005
 
-    -   name: "Runaway Inferno"
+    -   name: "\"Runaway Inferno\""
         publisher: "The Arizona Republic"
         awards:
         -   name: "NAA Digital Edge Awards"
@@ -449,17 +453,23 @@
     projects:
     -   awards:
         -   name: "Columbia Scholastic Press Association Gold Circle Awards"
-            category: "Honorable mention: Feature Page Design, Single-Subject Presentation"
+            category: "Honorable mention: Feature Page Design (\"George Strait Festival\")"
+            url: http://cspa.columbia.edu/recepient-lists/2000-awards-student-work-gold-circle-awards-collegiate-recipients
             date: 2000
         -   name: "Columbia Scholastic Press Association Gold Circle Awards"
-            category: "3rd Place, Best Advertisement Design - Slices"
-            date: 1999
+            category: "Honorable mention: Single Subject Presentation, Double-truck, Special Section (\"Jazz Master\")"
+            url: http://cspa.columbia.edu/recepient-lists/2000-awards-student-work-gold-circle-awards-collegiate-recipients
+            date: 2000
+        # -   name: "Columbia Scholastic Press Association Gold Circle Awards"
+        #     category: "3rd Place, Best Advertisement Design (Slices)"
+        #     date: 1999
 
 -   media: "Writing (College, High School)"
     projects:
     -   awards:
         -   name: "Columbia Scholastic Press Association Gold Circle Awards"
             category: "Honorable mention: In-depth News/Feature"
+            url: http://cspa.columbia.edu/recepient-lists/2000-awards-student-work-gold-circle-awards-collegiate-recipients
             date: 2000
         -   name: "Arizona Press Women High School Journalism Contest"
             category: "Third place: Editorial Writing; Honorable mention: Newswriting"
@@ -484,9 +494,9 @@
         -   name: "The Arizona Republic, ASU Cronkite School"
             category: "Summer Journalism Institute"
             date: 1997
-        -   name: "Columbia Scholastic Press Association national competition"
-            category: "Silver Medal Award, The Summit (Mountain View High School Yearbook)"
-            date: 1997
+        # -   name: "Columbia Scholastic Press Association national competition"
+        #     category: "Silver Medal Award, The Summit (Mountain View High School Yearbook)"
+        #     date: 1997
 
 # -   name: "TKTK"
 #     publisher: "TKTKTK"

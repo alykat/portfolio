@@ -13,7 +13,7 @@ permalink: /resume/awards/
 <section class="{% if project.feature == true %}feature{% else %}nofeature{% endif %}">
     <h3>
         {% if project.url %}<a href="{{ project.url }}">{% endif %}{{ project.name }}{% if project.url %}</a>{% endif %}
-        {% if project.publisher %} <span class="publisher">({{ project.publisher }})</span>{% endif %}
+        {% if project.publisher %} <span class="publisher">&mdash; {{ project.publisher }}</span>{% endif %}
     </h3>
 
     {% if project.description %}

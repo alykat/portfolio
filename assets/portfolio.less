@@ -21,22 +21,26 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
+    -webkit-font-smoothing: antialiased;
     font-size: 3rem;
     font-weight: 600;
 }
 h2 {
-    color: @color3;
-    // color: darken(@color3, 15%);
+    -webkit-font-smoothing: antialiased;
+    color: darken(@color3, 20%);
     font-size: 1.5rem;
     font-weight: 600;
 }
 h3 {
-    // color: @color3;
+    -webkit-font-smoothing: antialiased;
+    color: darken(@color3, 20%);
     font-size: 1.1rem;
-    margin-bottom: 0.5rem;
     font-weight: 600;
+    margin-bottom: 0.5rem;
+
 }
 h4 {
+    color: @color3;
     font-size: 1.0rem;
     font-style: italic;
 
@@ -54,7 +58,9 @@ p {
 }
 
 ul {
+    list-style-type: disc;
     margin-bottom: 1rem;
+    margin-left: 1rem;
 
     li {
         font-size: 0.85rem;
@@ -113,8 +119,8 @@ header {
 
         &.feature {
             // background-color: lighten(@color3, 20%);
-            background-color: @color5;
-            border: none;
+            // background-color: @color5;
+            border: 1px solid @color4;
             margin-top: 0.5rem;
             margin-bottom: 0.5rem;
             opacity: 1;
@@ -125,10 +131,11 @@ header {
         }
 
         p { margin-bottom: .5rem; }
-        ul {
-            list-style-type: disc;
-            margin-bottom: 0;
-            margin-left: 1rem;
+        ul { margin-bottom: 0; }
+
+        .publisher {
+            color: #454545;
+            font-weight: 400;
         }
     }
 
