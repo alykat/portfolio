@@ -70,13 +70,37 @@ a:link,
 a:visited {
   text-decoration: none;
   color: #3a8799;
-  border-bottom: 1px solid #badde5;
+  border-bottom: 1px solid transparent;
+}
+h2 a,
+h2 a:link,
+h2 a:visited,
+h3 a,
+h3 a:link,
+h3 a:visited,
+strong a,
+strong a:link,
+strong a:visited {
+  border-bottom-color: transparent;
+}
+a.img,
+a:link.img,
+a:visited.img {
+  border: none;
 }
 a:hover,
 a:active {
   color: #70b8c9;
   border-bottom-color: #70b8c9;
   transition: color 0.25s ease, border-bottom 0.25s ease;
+}
+h2 a:hover,
+h2 a:active,
+h3 a:hover,
+h3 a:active,
+strong a:hover,
+strong a:active {
+  border-bottom-color: #70b8c9;
 }
 .post-content,
 .post-header h1,
@@ -186,11 +210,6 @@ footer ul > li {
   font-size: 1rem;
   margin-bottom: 1.2rem;
 }
-.home .intro img,
-.home .projects img {
-  width: 100%;
-  height: auto;
-}
 .home .intro ul,
 .home .projects ul {
   display: flex;
@@ -198,15 +217,16 @@ footer ul > li {
   list-style-type: none;
   margin: 0 0 0.5rem 0;
 }
-.home .intro ul > li,
-.home .projects ul > li {
+.home .intro h2:last-child {
+  margin-top: 2rem;
+}
+.home .intro ul > li {
   border-top: 1px solid #f0d2c0;
   box-sizing: content-box;
   padding-top: 1rem;
 }
 @media screen and (min-width: 650px) {
-  .home .intro ul > li,
-  .home .projects ul > li {
+  .home .intro ul > li {
     width: 45%;
     margin-right: 5%;
   }
@@ -238,13 +258,16 @@ footer ul > li {
     margin-right: 3%;
   }
 }
+.home .projects img {
+  border: 1px solid #f0d2c0;
+  display: block;
+  margin-bottom: 0.5rem;
+  height: auto;
+  width: 100%;
+}
 article.awards section,
 article.projects section {
   border-top: 1px solid #f0d2c0;
-  margin-top: 0;
-  margin-bottom: 0;
-  margin-left: -1rem;
-  margin-right: -1rem;
   opacity: 0.8;
 }
 article.awards section:before,
@@ -258,19 +281,6 @@ article.awards section:after,
 article.projects section:after {
   clear: both;
 }
-article.awards section.feature,
-article.projects section.feature {
-  border: 1px solid #f0d2c0;
-  margin-top: 0.5rem;
-  margin-bottom: 0.5rem;
-  opacity: 1;
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-}
-article.awards section.feature + .nofeature,
-article.projects section.feature + .nofeature {
-  border: none;
-}
 article.awards section.img img,
 article.projects section.img img {
   float: right;
@@ -280,10 +290,6 @@ article.projects section.img img {
 article.awards h2,
 article.projects h2 {
   margin-top: 2.5rem;
-}
-article.awards p,
-article.projects p {
-  margin-bottom: .5rem;
 }
 article.awards ul,
 article.projects ul {
@@ -297,10 +303,30 @@ article.projects .publisher {
 .awards section {
   padding: 0.5rem 1rem;
 }
+.awards section.feature {
+  border: 1px solid #f0d2c0;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  opacity: 1;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+.awards section.feature + .nofeature {
+  border: none;
+}
+.awards p {
+  margin-bottom: .5rem;
+}
 .projects section {
-  padding: 1.5rem 1rem;
+  padding: 1.5rem 0;
 }
 .projects section:first-child {
   border-top: none;
   padding-top: 0;
+}
+.projects h4 {
+  margin-bottom: 0.25rem;
+}
+.projects img {
+  border: 1px solid #f0d2c0;
 }

@@ -14,9 +14,10 @@ layout: default
 
     <div class="post-content wide projects">
         <ul>
-            {% for project in site.data.projects limit:5 %}
+            {% for project in site.data.projects %}
+            {% if project.feature == true %}
             <li class="{% if project.feature == true %}feature{% else %}nofeature{% endif %} {% if project.img != "" %}img{% endif %}">
-                {% if project.url and project.url != "" %}<a href="{{ project.url }}">{% endif %}
+                {% if project.url and project.url != "" %}<a href="{{ project.url }}" class="img">{% endif %}
                     {% if project.img and project.img != "" %}<img src="{{ "/assets/img/" | relative_url }}{{ project.img }}" alt="{{ project.name }}" />{% endif %}
                 {% if project.url and project.url != "" %}</a>{% endif %}
 
@@ -25,6 +26,7 @@ layout: default
                     {% if project.publisher and project.publisher != "" %} <span class="publisher">&mdash; {{ project.publisher }}</span>{% endif %}
                 </h3>
             </li>
+            {% endif %}
             {% endfor %}
         </ul>
     </div>

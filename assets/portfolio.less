@@ -92,12 +92,21 @@ strong {
 a, a:link, a:visited {
     text-decoration: none;
     color: @color2;
-    border-bottom: 1px solid lighten(@color2, 40%);
+    // border-bottom: 1px solid lighten(@color2, 40%);
+    border-bottom: 1px solid transparent;
+
+    h2 &, h3 &,
+    strong & { border-bottom-color: transparent; }
+
+    &.img { border: none; }
 }
 a:hover, a:active {
     color: lighten(@color2, 20%);
     border-bottom-color: lighten(@color2, 20%);
     transition: color .25s ease, border-bottom .25s ease;
+
+    h2 &, h3 &,
+    strong & { border-bottom-color: lighten(@color2, 20%); }
 }
 
 .post-content,
@@ -190,17 +199,18 @@ footer {
             margin-bottom: 1.2rem;
         }
 
-        img {
-            width: 100%;
-            height: auto;
-        }
-
         ul {
             display: flex;
             flex-wrap: wrap;
             list-style-type: none;
             margin: 0 0 0.5rem 0;
+        }
+    }
 
+    .intro {
+        h2:last-child { margin-top: 2rem; }
+
+        ul {
             > li {
                 border-top: 1px solid @color4;
                 box-sizing: content-box;
@@ -243,6 +253,14 @@ footer {
                 }
             }
         }
+
+        img {
+            border: 1px solid @color4;
+            display: block;
+            margin-bottom: 0.5rem;
+            height: auto;
+            width: 100%;
+        }
     }
 }
 
@@ -252,11 +270,29 @@ article.projects {
     section {
         .clearfix();
         border-top: 1px solid @color4;
-        margin-top: 0;
-        margin-bottom: 0;
-        margin-left: -1rem;
-        margin-right: -1rem;
         opacity: 0.8;
+
+        &.img {
+            img {
+                float: right;
+                margin-left: 1rem;
+                width: 10rem;
+            }
+        }
+    }
+
+    h2 { margin-top: 2.5rem; }
+    ul { margin-bottom: 0; }
+
+    .publisher {
+        color: #454545;
+        font-weight: 400;
+    }
+}
+
+.awards {
+    section {
+        padding: 0.5rem 1rem;
 
         &.feature {
             // background-color: lighten(@color3, 20%);
@@ -270,39 +306,22 @@ article.projects {
 
             + .nofeature { border: none; }
         }
-
-        &.img {
-            img {
-                float: right;
-                margin-left: 1rem;
-                width: 10rem;
-            }
-        }
     }
 
-    h2 { margin-top: 2.5rem; }
     p { margin-bottom: .5rem; }
-    ul { margin-bottom: 0; }
-
-    .publisher {
-        color: #454545;
-        font-weight: 400;
-    }
-}
-
-.awards {
-    section {
-        padding: 0.5rem 1rem;
-    }
 }
 
 .projects {
     section {
-        padding: 1.5rem 1rem;
+        padding: 1.5rem 0;
 
         &:first-child {
             border-top: none;
             padding-top: 0;
         }
     }
+
+    h4 { margin-bottom: 0.25rem; }
+
+    img { border: 1px solid @color4; }
 }
