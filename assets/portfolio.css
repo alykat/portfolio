@@ -61,14 +61,16 @@ ul li {
 ul li:last-child {
   margin-bottom: 0;
 }
+strong {
+  font-weight: 700;
+  color: #454545;
+}
 a,
-a:link {
+a:link,
+a:visited {
   text-decoration: none;
   color: #3a8799;
-  border-bottom: 1px solid transparent;
-}
-a:visited {
-  color: #1e464f;
+  border-bottom: 1px solid #badde5;
 }
 a:hover,
 a:active {
@@ -77,15 +79,66 @@ a:active {
   transition: color 0.25s ease, border-bottom 0.25s ease;
 }
 .post-content,
-.post-header h1 {
-  max-width: 650px;
-  margin-left: auto;
-  margin-right: auto;
+.post-header h1,
+.post-header h5,
+footer {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+@media screen and (min-width: 680px) {
+  .post-content,
+  .post-header h1,
+  .post-header h5,
+  footer {
+    max-width: 650px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+.post-content.wide {
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.post-content.wide:before,
+.post-content.wide:after {
+  content: " ";
+  display: table;
+}
+.post-content.wide:after {
+  clear: both;
+}
+@media screen and (min-width: 680px) {
+  .post-content.wide {
+    max-width: none;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+}
+@media screen and (min-width: 1030px) {
+  .post-content.wide {
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+header:before,
+header:after {
+  content: " ";
+  display: table;
+}
+header:after {
+  clear: both;
 }
 header.post-header {
   background-color: #14272d;
-  margin-left: -1rem;
-  margin-right: -1rem;
   padding: 4rem 1rem 0.5rem 1rem;
   margin-bottom: 2rem;
 }
@@ -97,16 +150,116 @@ header.post-header h5,
 header.post-header h6 {
   color: #fff;
 }
-.awards section {
+header.post-header h5 {
+  font-size: 1.1rem;
+  margin-bottom: -0.5rem;
+  font-style: italic;
+}
+header.post-header h5 a,
+header.post-header h5 a:link,
+header.post-header h5 a:visited {
+  border-bottom: 1px solid transparent;
+}
+header.post-header h5 a:hover,
+header.post-header h5 a:active {
+  border-bottom-color: #70b8c9;
+}
+footer {
+  font-style: italic;
+  padding-top: 2.5rem;
+  padding-bottom: 1rem;
+}
+footer ul {
+  list-style-type: none;
+  margin: 0;
+}
+footer ul > li {
+  display: inline;
+  margin-right: 1.5rem;
+  white-space: nowrap;
+  color: #999;
+}
+.home .intro li,
+.home .projects li,
+.home .intro p,
+.home .projects p {
+  font-size: 1rem;
+  margin-bottom: 1.2rem;
+}
+.home .intro img,
+.home .projects img {
+  width: 100%;
+  height: auto;
+}
+.home .intro ul,
+.home .projects ul {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  margin: 0 0 0.5rem 0;
+}
+.home .intro ul > li,
+.home .projects ul > li {
+  border-top: 1px solid #f0d2c0;
+  box-sizing: content-box;
+  padding-top: 1rem;
+}
+@media screen and (min-width: 650px) {
+  .home .intro ul > li,
+  .home .projects ul > li {
+    width: 45%;
+    margin-right: 5%;
+  }
+}
+.home .projects {
+  padding-top: 0.5rem;
+}
+.home .projects h3 {
+  color: #999;
+  font-size: 1rem;
+}
+.home .projects p {
+  font-size: 0.8rem;
+  font-style: italic;
+}
+.home .projects ul > li {
+  width: 45%;
+  margin-right: 5%;
+}
+@media screen and (min-width: 455px) {
+  .home .projects ul > li {
+    width: 30%;
+    margin-right: 3%;
+  }
+}
+@media screen and (min-width: 650px) {
+  .home .projects ul > li {
+    width: 17%;
+    margin-right: 3%;
+  }
+}
+article.awards section,
+article.projects section {
   border-top: 1px solid #f0d2c0;
   margin-top: 0;
   margin-bottom: 0;
   margin-left: -1rem;
   margin-right: -1rem;
-  padding: 0.5rem 1rem;
   opacity: 0.8;
 }
-.awards section.feature {
+article.awards section:before,
+article.projects section:before,
+article.awards section:after,
+article.projects section:after {
+  content: " ";
+  display: table;
+}
+article.awards section:after,
+article.projects section:after {
+  clear: both;
+}
+article.awards section.feature,
+article.projects section.feature {
   border: 1px solid #f0d2c0;
   margin-top: 0.5rem;
   margin-bottom: 0.5rem;
@@ -114,19 +267,40 @@ header.post-header h6 {
   padding-top: 1rem;
   padding-bottom: 1rem;
 }
-.awards section.feature + .nofeature {
+article.awards section.feature + .nofeature,
+article.projects section.feature + .nofeature {
   border: none;
 }
-.awards section p {
+article.awards section.img img,
+article.projects section.img img {
+  float: right;
+  margin-left: 1rem;
+  width: 10rem;
+}
+article.awards h2,
+article.projects h2 {
+  margin-top: 2.5rem;
+}
+article.awards p,
+article.projects p {
   margin-bottom: .5rem;
 }
-.awards section ul {
+article.awards ul,
+article.projects ul {
   margin-bottom: 0;
 }
-.awards section .publisher {
+article.awards .publisher,
+article.projects .publisher {
   color: #454545;
   font-weight: 400;
 }
-.awards h2 {
-  margin-top: 2.5rem;
+.awards section {
+  padding: 0.5rem 1rem;
+}
+.projects section {
+  padding: 1.5rem 1rem;
+}
+.projects section:first-child {
+  border-top: none;
+  padding-top: 0;
 }
