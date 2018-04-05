@@ -15,4 +15,4 @@ title: Greetings!
 
 I've spent most of my career at NPR, The Washington Post and The Arizona Republic. **[Here is my resume.](resume/)**
 
-## Here are a few [projects]({{ "/projects/" | relative_url }}) I'm proud of:
+## Here are a few [projects]({{ "/projects/" | relative_url }}) I'm especially proud of:
