@@ -12,7 +12,7 @@ permalink: /resume/
 
 _December 2008&ndash;present_
 
-Responsibilities: Coordinate, assign and execute short- and medium-turnaround graphics projects. Maintain graphics templates and styles. Document and promote team projects and processes.
+Responsibilities: Coordinate, assign and execute short- and medium-turnaround graphics projects. Develop and maintain our system for [generating, embedding and archiving code-based graphics](https://github.com/nprapps/dailygraphics), including starter templates for different graphic types. Edit graphics produced by other colleagues. Document and promote team projects and processes.
 
 ### washingtonpost.com / Washingtonpost.Newsweek Interactive
 #### Senior Designer / Politics
@@ -47,22 +47,24 @@ Responsibilities: Design and construction of news- and feature-related special s
 ## Education
 
 ### Master of Arts, Communication, Culture and Technology
-#### Georgetown University (Washington, D.C.)
+#### Georgetown University
 
 <!-- 2002&ndash;2004 -->
 
-Concentration: Politics & Media
+Concentration: Politics and media
 
-### Walter Cronkite School of Journalism and Telecommunication,<br />Arizona State University (Tempe,&nbsp;Ariz.)
-#### Bachelor of Arts, Journalism (news/editorial)
+### Bachelor of Arts, Journalism
+#### Walter Cronkite School of Journalism and Telecommunication,<br />Arizona State University
 
 <!-- 1997&ndash;2001 -->
 
-Minors: Spanish, Political Science
+Concentration: News/editorial
+
+Minors: Spanish, political science
 
 Honors College
 
-Magna Cum Laude
+Magna cum laude
 
 --------
 

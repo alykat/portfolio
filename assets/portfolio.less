@@ -7,6 +7,20 @@
 @color4:    #f0d2c0; // beige
 @color5:    #f9fbfd; // backgrounds
 
+@content-max: 650px;
+@content-wide-max: 1000px;
+
+.clearfix() {
+    &:before,
+    &:after {
+        content: " ";
+        display: table;
+    }
+    &:after {
+        clear: both;
+    }
+}
+
 body {
     background-color: #f7f7f7;
     // background-color: @color5;
@@ -70,13 +84,15 @@ ul {
     }
 }
 
-a, a:link {
+strong {
+    font-weight: 700;
+    color: #454545;
+}
+
+a, a:link, a:visited {
     text-decoration: none;
     color: @color2;
-    border-bottom: 1px solid transparent;
-}
-a:visited {
-    color: darken(@color2, 20%);
+    border-bottom: 1px solid lighten(@color2, 40%);
 }
 a:hover, a:active {
     color: lighten(@color2, 20%);
@@ -84,37 +100,162 @@ a:hover, a:active {
     transition: color .25s ease, border-bottom .25s ease;
 }
 
-main {
+.post-content,
+.post-header h1,
+.post-header h5,
+footer {
+    padding-left: 15px;
+    padding-right: 15px;
+
+    @media screen and (min-width: (@content-max + 30px)) {
+        max-width: @content-max;
+        margin-left: auto;
+        margin-right: auto;
+        padding-left: 0;
+        padding-right: 0;
+    }
 }
 
-.post-content,
-.post-header h1 {
-    max-width: 650px;
-    margin-left: auto;
-    margin-right: auto;
+.post-content.wide {
+    .clearfix();
+    // background-color: @color5;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 15px;
+    padding-right: 15px;
+
+    @media screen and (min-width: (@content-max + 30px)) {
+        max-width: none;
+        margin-left: 0;
+        margin-right: 0;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    @media screen and (min-width: (@content-wide-max + 30px)) {
+        max-width: @content-wide-max;
+        margin-left: auto;
+        margin-right: auto;
+        padding-left: 0;
+        padding-right: 0;
+    }
 }
+
 
 header {
+    .clearfix();
+
     &.post-header {
         background-color: @color1;
-        margin-left: -1rem;
-        margin-right: -1rem;
         padding: 4rem 1rem 0.5rem 1rem;
         margin-bottom: 2rem;
 
         h1, h2, h3, h4, h5, h6 { color: #fff; }
+
+        h5 {
+            font-size: 1.1rem;
+            margin-bottom: -0.5rem;
+            font-style: italic;
+
+            a, a:link, a:visited { border-bottom: 1px solid transparent; }
+            a:hover, a:active { border-bottom-color: lighten(@color2, 20%); }
+        }
     }
 }
 
-// awards page
-.awards {
+footer {
+    font-style: italic;
+    padding-top: 2.5rem;
+    padding-bottom: 1rem;
+
+    ul {
+        list-style-type: none;
+        margin: 0;
+
+        > li {
+            display: inline;
+            margin-right: 1.5rem;
+            white-space: nowrap;
+            color: #999;
+        }
+    }
+}
+
+// home
+.home {
+    .intro,
+    .projects {
+        li, p {
+            font-size: 1rem;
+            margin-bottom: 1.2rem;
+        }
+
+        img {
+            width: 100%;
+            height: auto;
+        }
+
+        ul {
+            display: flex;
+            flex-wrap: wrap;
+            list-style-type: none;
+            margin: 0 0 0.5rem 0;
+
+            > li {
+                border-top: 1px solid @color4;
+                box-sizing: content-box;
+                padding-top: 1rem;
+
+                @media screen and (min-width: @content-max) {
+                    width: 45%;
+                    margin-right: 5%;
+                }
+            }
+        }
+    }
+
+    .projects {
+        padding-top: 0.5rem;
+
+        h3 {
+            color: #999;
+            font-size: 1rem;
+        }
+
+        p {
+            font-size: 0.8rem;
+            font-style: italic;
+        }
+
+        ul {
+            > li {
+                width: 45%;
+                margin-right: 5%;
+
+                @media screen and (min-width: (@content-max * .7)) {
+                    width: 30%;
+                    margin-right: 3%;
+                }
+
+                @media screen and (min-width: @content-max) {
+                    width: 17%;
+                    margin-right: 3%;
+                }
+            }
+        }
+    }
+}
+
+// projects and awards pages
+article.awards,
+article.projects {
     section {
+        .clearfix();
         border-top: 1px solid @color4;
         margin-top: 0;
         margin-bottom: 0;
         margin-left: -1rem;
         margin-right: -1rem;
-        padding: 0.5rem 1rem;
         opacity: 0.8;
 
         &.feature {
@@ -130,14 +271,38 @@ header {
             + .nofeature { border: none; }
         }
 
-        p { margin-bottom: .5rem; }
-        ul { margin-bottom: 0; }
-
-        .publisher {
-            color: #454545;
-            font-weight: 400;
+        &.img {
+            img {
+                float: right;
+                margin-left: 1rem;
+                width: 10rem;
+            }
         }
     }
 
     h2 { margin-top: 2.5rem; }
+    p { margin-bottom: .5rem; }
+    ul { margin-bottom: 0; }
+
+    .publisher {
+        color: #454545;
+        font-weight: 400;
+    }
+}
+
+.awards {
+    section {
+        padding: 0.5rem 1rem;
+    }
+}
+
+.projects {
+    section {
+        padding: 1.5rem 1rem;
+
+        &:first-child {
+            border-top: none;
+            padding-top: 0;
+        }
+    }
 }

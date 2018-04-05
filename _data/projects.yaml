@@ -1,0 +1,173 @@
+-   name: "The Driving Life and Death of Philando Castile"
+    publisher: NPR
+    url: http://www.npr.org/sections/thetwo-way/2016/07/15/485835272/the-driving-life-and-death-of-philando-castile
+    pubdate: "July&nbsp;15,&nbsp;2016"
+    img: ""
+    role: ""
+    description: ""
+    more_text: ""
+    more_url: ""
+    feature: false
+    awards:
+    -   name: "SND Best of Digital Design"
+        category: "Award of Excellence: Graphics, breaking news"
+        url: http://www.snd.org/2017/02/final-results-best-of-digital-design-2016/
+        date: "2016"
+
+-   name: "Elections 2016: Democratic And Republican Delegate Tracker"
+    publisher: "NPR"
+    url: "https://www.npr.org/2016/03/02/468641509/elections-2016-democratic-and-republican-delegate-tracker"
+    pubdate: "March&nbsp;2,&nbsp;2016"
+    img: "delegates-2016.png"
+    role: ""
+    description: ""
+    more_text: ""
+    more_url: ""
+    feature: false
+
+-   name: "Planet Money Makes a T-Shirt"
+    publisher: "NPR"
+    url: "http://apps.npr.org/tshirt/"
+    pubdate: "Dec.&nbsp;2,&nbsp;2013"
+    img: "pm-tshirt.jpg"
+    role: "co-designer / front-end developer"
+    description: ""
+    more_text: ""
+    more_url: ""
+    feature: true
+    awards:
+    -   name: "35th Annual News and Documentary Emmy Awards"
+        category: "Emmy Winner: New Approaches, Documentaries"
+        url: http://emmyonline.org/news_35th_winners
+        date: 2014
+    -   name: "Online Journalism Awards"
+        category: "Winner: Excellence and Innovation in Visual Digital Storytelling, Large | Winner: Feature, Large | Finalist: Explanatory Reporting, Large"
+        url: http://journalists.org/2014/09/27/seattle-times-pro-publica-npr-take-home-2014-online-journalism-awards/
+        date: 2014
+    -   name: "Gerald Loeb Awards"
+        category: "Online Winner"
+        url: http://www.businesswire.com/news/home/20140624006875/en/UCLA-Anderson-School-Management-Announces-2014-Gerald
+        date: 2014
+    -   name: "Overseas Press Club Awards"
+        category: "Winner: Best Multimedia News Presentation"
+        url: https://www.opcofamerica.org/awards/20-best-multimedia-news-presentation-0
+        date: 2013
+    -   name: "SPJ Sigma Delta Chi Awards"
+        category: "Winner: Specialized Journalism Site"
+        url: https://www.spj.org/sdxa13.asp
+        date: 2013
+    -   name: "SND Best of Digital Design"
+        category: "Gold Medal: Single-Story Project | Silver Medal: Use of Multimedia"
+        url: http://www.snd.org/2014/03/snd35-a-list-of-the-best-of-digital-design-award-winners/
+        date: 2014
+    -   name: "Scripps Howard Awards"
+        category: "Winner: Digital Innovation"
+        url: http://www.prnewswire.com/news-releases/scripps-howard-awards-honor-nations-best-2013-journalism-251266701.html
+        date: 2014
+    -   name: "Pictures of the Year International"
+        category: "Winner: Documentary Project of the Year | First Place: Documentary Journalism"
+        url: http://poyi.org/71/44/index.php
+        date: 2014
+    -   name: "SABEW Best in Business awards"
+        category: "Winner: Innovation"
+        url: http://sabew.org/2014/02/2013-bib-winners-list/
+        date: 2013
+    -   name: "White House News Photographers Association Eyes of History Contest"
+        category: "First Place: Innovation"
+        url: http://www.whnpa.org/contests/multimedia-contest/2014-eyes-of-history-new-media-editing-contest/
+        date: 2014
+
+-   name: "The Driving Life and Death of Philando Castile"
+    publisher: NPR
+    url: http://www.npr.org/sections/thetwo-way/2016/07/15/485835272/the-driving-life-and-death-of-philando-castile
+    pubdate: "July&nbsp;15,&nbsp;2016"
+    img: ""
+    role: ""
+    description: ""
+    more_text: ""
+    more_url: ""
+    feature: false
+    awards:
+    -   name: "SND Best of Digital Design"
+        category: "Award of Excellence: Graphics, breaking news"
+        url: http://www.snd.org/2017/02/final-results-best-of-digital-design-2016/
+        date: "2016"
+
+-   name: "Elections 2016: Democratic And Republican Delegate Tracker"
+    publisher: "NPR"
+    url: "https://www.npr.org/2016/03/02/468641509/elections-2016-democratic-and-republican-delegate-tracker"
+    pubdate: "March&nbsp;2,&nbsp;2016"
+    img: "delegates-2016.png"
+    role: ""
+    description: ""
+    more_text: ""
+    more_url: ""
+    feature: false
+
+-   name: "Planet Money Makes a T-Shirt"
+    publisher: "NPR"
+    url: "http://apps.npr.org/tshirt/"
+    pubdate: "Dec.&nbsp;2,&nbsp;2013"
+    img: "pm-tshirt.jpg"
+    role: "co-designer / front-end developer"
+    description: ""
+    more_text: ""
+    more_url: ""
+    feature: true
+    awards:
+    -   name: "35th Annual News and Documentary Emmy Awards"
+        category: "Emmy Winner: New Approaches, Documentaries"
+        url: http://emmyonline.org/news_35th_winners
+        date: 2014
+    -   name: "Online Journalism Awards"
+        category: "Winner: Excellence and Innovation in Visual Digital Storytelling, Large | Winner: Feature, Large | Finalist: Explanatory Reporting, Large"
+        url: http://journalists.org/2014/09/27/seattle-times-pro-publica-npr-take-home-2014-online-journalism-awards/
+        date: 2014
+    -   name: "Gerald Loeb Awards"
+        category: "Online Winner"
+        url: http://www.businesswire.com/news/home/20140624006875/en/UCLA-Anderson-School-Management-Announces-2014-Gerald
+        date: 2014
+    -   name: "Overseas Press Club Awards"
+        category: "Winner: Best Multimedia News Presentation"
+        url: https://www.opcofamerica.org/awards/20-best-multimedia-news-presentation-0
+        date: 2013
+    -   name: "SPJ Sigma Delta Chi Awards"
+        category: "Winner: Specialized Journalism Site"
+        url: https://www.spj.org/sdxa13.asp
+        date: 2013
+    -   name: "SND Best of Digital Design"
+        category: "Gold Medal: Single-Story Project | Silver Medal: Use of Multimedia"
+        url: http://www.snd.org/2014/03/snd35-a-list-of-the-best-of-digital-design-award-winners/
+        date: 2014
+    -   name: "Scripps Howard Awards"
+        category: "Winner: Digital Innovation"
+        url: http://www.prnewswire.com/news-releases/scripps-howard-awards-honor-nations-best-2013-journalism-251266701.html
+        date: 2014
+    -   name: "Pictures of the Year International"
+        category: "Winner: Documentary Project of the Year | First Place: Documentary Journalism"
+        url: http://poyi.org/71/44/index.php
+        date: 2014
+    -   name: "SABEW Best in Business awards"
+        category: "Winner: Innovation"
+        url: http://sabew.org/2014/02/2013-bib-winners-list/
+        date: 2013
+    -   name: "White House News Photographers Association Eyes of History Contest"
+        category: "First Place: Innovation"
+        url: http://www.whnpa.org/contests/multimedia-contest/2014-eyes-of-history-new-media-editing-contest/
+        date: 2014
+
+# -   name: "TKTK"
+#     publisher: "TKTK"
+#     url: "TKTK"
+#     pubdate: "TKTK"
+#     img: ""
+#     role: ""
+#     description: ""
+#     more_text: ""
+#     more_url: ""
+#     feature: false
+#     awards:
+#     -   name: "TKTK"
+#         category: "TKTK"
+#         url: "TKTK"
+#         date: "TKTK"
