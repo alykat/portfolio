@@ -55,6 +55,8 @@ However, jekyll-less isn't [whitelisted](https://help.github.com/articles/config
 alias jkcss="cp _site/assets/*.css assets/"
 ```
 
+Run `jkless` before every commit.
+
 (I also saw this post with a workaround to [automate this process](http://www.mikeniebling.com/Setting-Up-Jekyll-With-LESS/) but it sounded more cumbersome than I really wanted to bother with.)
 
 ## Documentation
