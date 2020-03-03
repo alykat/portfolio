@@ -8,11 +8,11 @@ permalink: /resume/
 ## Work History
 
 ### NPR.org
-#### Graphics Editor, Visuals team
+#### Senior Graphics Editor, Visuals team
 
 _December 2008&ndash;present_
 
-Responsibilities: Coordinate, assign and execute short- and medium-turnaround graphics projects. Develop and maintain our system for [generating, embedding and archiving code-based graphics](https://github.com/nprapps/dailygraphics), including starter templates for different graphic types. Edit graphics produced by other colleagues. Document and promote team projects and processes.
+Responsibilities: Coordinate, assign and execute short- and medium-turnaround graphics projects. Help develop and maintain our systems for generating, embedding and archiving code-based graphics, including starter templates for different graphic types. Assign and edit graphics produced by other colleagues. Document and promote team projects and processes. Train and mentor junior teammates. Informally project manage as needed. Coordinate with other teams across the organization on coverage, distribution, promotion and technical needs.
 
 ### washingtonpost.com / Washingtonpost.Newsweek Interactive
 #### Senior Designer / Politics
