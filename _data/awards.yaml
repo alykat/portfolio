@@ -1,5 +1,23 @@
 -   media: "Digital Design"
     projects:
+    -   name: "Losing The Eternal Blue Sky"
+        publisher: NPR
+        url: https://apps.npr.org/mongolia/
+        awards:
+        -   name: "WHNPA Eyes of History"
+            category: "First Place: Best Multimedia Package"
+            url: https://www.whnpa.org/main/the-eyes-of-history/multimedia/2020-information-and-rules/results/
+            date: "2020"
+
+    -   name: "Plastics: What To Recycle, What Remains Trash, And Why"
+        publisher: NPR
+        url: https://apps.npr.org/plastics-recycling/
+        awards:
+        -   name: "WHNPA Eyes of History"
+            category: "Award of Excellence: Best Multimedia Package"
+            url: https://www.whnpa.org/main/the-eyes-of-history/multimedia/2020-information-and-rules/results/
+            date: "2020"
+
     -   name: "The Driving Life and Death of Philando Castile"
         publisher: NPR
         url: http://www.npr.org/sections/thetwo-way/2016/07/15/485835272/the-driving-life-and-death-of-philando-castile
