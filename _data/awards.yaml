@@ -1,5 +1,19 @@
 -   media: "Digital Design"
     projects:
+    -   name: "NPR Visuals team portfolio"
+        publisher: "NPR"
+        url: http://blog.apps.npr.org/apps/
+        feature: true
+        awards:
+        -   name: "SND Best of Digital Design"
+            category: "Award of Excellence: Portfolios, Story Page Design"
+            url: https://www.snd.org/bodd/2020/02/07/2019-results/
+            date: 2019
+        -   name: "SND Best of Digital Design"
+            category: "Silver Medal: Portfolios: Organization, Large"
+            url: http://www.snd.org/2015/03/winners-list-2014-best-of-digital-design-competition/
+            date: 2014
+
     -   name: "Losing The Eternal Blue Sky"
         publisher: NPR
         url: https://apps.npr.org/mongolia/
@@ -8,6 +22,10 @@
             category: "First Place: Best Multimedia Package"
             url: https://www.whnpa.org/main/the-eyes-of-history/multimedia/2020-information-and-rules/results/
             date: "2020"
+        -   name: "SND Best of Digital Design"
+            category: "Award of Excellence: Story Page Design - International"
+            url: https://www.snd.org/bodd/2020/02/07/2019-results/
+            date: "2019"
 
     -   name: "Plastics: What To Recycle, What Remains Trash, And Why"
         publisher: NPR
@@ -17,6 +35,28 @@
             category: "Award of Excellence: Best Multimedia Package"
             url: https://www.whnpa.org/main/the-eyes-of-history/multimedia/2020-information-and-rules/results/
             date: "2020"
+        -   name: "SND Best of Digital Design"
+            category: "Award of Excellence: Story Page Design - Environmental, Health & Science"
+            url: https://www.snd.org/bodd/2020/02/07/2019-results/
+            date: "2019"
+
+    -   name: "After The Water"
+        publisher: NPR
+        url: https://apps.npr.org/ellicott-city/
+        awards:
+        -   name: "SND Best of Digital Design"
+            category: "Award of Excellence: Story Page Design - Environmental, Health & Science"
+            url: https://www.snd.org/bodd/2020/02/07/2019-results/
+            date: "2019"
+
+    -   name: "White Lies"
+        publisher: NPR
+        url: https://apps.npr.org/white-lies/
+        awards:
+        -   name: "SND Best of Digital Design"
+            category: "Award of Excellence: Story Page Design - National"
+            url: https://www.snd.org/bodd/2020/02/07/2019-results/
+            date: "2019"
 
     -   name: "The Driving Life and Death of Philando Castile"
         publisher: NPR
