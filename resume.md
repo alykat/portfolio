@@ -8,8 +8,10 @@ permalink: /resume/
 ## Work History
 
 ### NPR.org
-#### Senior Graphics Editor, Visuals team
+#### Acting Supervising Producer, News Apps team
+_October 2020&ndash;present_
 
+#### Senior Graphics Editor, Visuals/News Apps team
 _December 2008&ndash;present_
 
 Responsibilities: Coordinate, assign and execute short- and medium-turnaround graphics projects. Help develop and maintain our systems for generating, embedding and archiving code-based graphics, including starter templates for different graphic types. Assign and edit graphics produced by other colleagues. Document and promote team projects and processes. Train and mentor junior teammates. Informally project manage as needed. Coordinate with other teams across the organization on coverage, distribution, promotion and technical needs.
