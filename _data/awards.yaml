@@ -5,7 +5,7 @@
         role: "designer (one of many), graphics editor"
         awards:
         -   name: "SND Best of Digital Design"
-            category: "Award of Excellence: Format — Use of Data"
+            category: "Award of Excellence: Format: Use of Data"
             url: https://www.snd.org/2021/02/snd-42-best-of-digital-design-live-results/
             date: "2020"
     
@@ -14,8 +14,12 @@
         url: https://apps.npr.org/fukushima/
         role: "art direction, graphics editing"
         awards:
+        -   name: "WHNPA Eyes of History"
+            category: "Second Place: Best Multimedia Package"
+            url: https://www.whnpa.org/main/the-eyes-of-history/multimedia/2021-eyes-of-history-digital-storytelling-results/
+            date: "2021"
         -   name: "SND Best of Digital Design"
-            category: "Award of Excellence: Format — Use of Photography or Photo Story"
+            category: "Award of Excellence: Format: Use of Photography or Photo Story"
             url: https://www.snd.org/2021/02/snd-42-best-of-digital-design-live-results/
             date: "2020"
     
