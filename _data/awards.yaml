@@ -1,5 +1,24 @@
 -   media: "Digital Design"
-    projects:
+    -   name: "How Severe Is Your State's Coronavirus Outbreak?"
+        publisher: NPR
+        url: https://www.npr.org/sections/health-shots/2020/09/01/816707182/map-tracking-the-spread-of-the-coronavirus-in-the-u-s
+        role: "designer (one of many), graphics editor"
+        awards:
+        -   name: "SND Best of Digital Design"
+            category: "Award of Excellence: Format — Use of Data"
+            url: https://www.snd.org/2021/02/snd-42-best-of-digital-design-live-results/
+            date: "2020"
+    
+    -   name: "The Ghost Towns Behind The Gates"
+        publisher: NPR
+        url: https://apps.npr.org/fukushima/
+        role: "art direction, graphics editing"
+        awards:
+        -   name: "SND Best of Digital Design"
+            category: "Award of Excellence: Format — Use of Photography or Photo Story"
+            url: https://www.snd.org/2021/02/snd-42-best-of-digital-design-live-results/
+            date: "2020"
+    
     -   name: "NPR Visuals team portfolio"
         publisher: "NPR"
         url: http://blog.apps.npr.org/apps/
