@@ -1,8 +1,8 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.5.2)
-      public_suffix (>= 2.0.2, < 4.0)
+    addressable (2.8.0)
+      public_suffix (>= 2.0.2, < 5.0)
     colorator (1.1.0)
     commonjs (0.2.7)
     concurrent-ruby (1.0.5)
@@ -35,27 +35,21 @@ GEM
       less (>= 2.0.5)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
-    jekyll-seo-tag (2.4.0)
-      jekyll (~> 3.3)
     jekyll-watch (2.0.0)
       listen (~> 3.0)
     kramdown (1.16.2)
     less (2.6.0)
       commonjs (~> 0.2.7)
-    libv8 (3.16.14.19-x86_64-darwin-15)
+    libv8 (3.16.14.19)
     liquid (4.0.0)
     listen (3.1.5)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
       ruby_dep (~> 1.2)
     mercenary (0.3.6)
-    minima (2.4.0)
-      jekyll (~> 3.5)
-      jekyll-feed (~> 0.9)
-      jekyll-seo-tag (~> 2.1)
     pathutil (0.16.1)
       forwardable-extended (~> 2.6)
-    public_suffix (3.0.2)
+    public_suffix (4.0.6)
     rb-fsevent (0.10.3)
     rb-inotify (0.9.10)
       ffi (>= 0.5.0, < 2)
@@ -79,7 +73,6 @@ DEPENDENCIES
   jekyll (~> 3.7.3)
   jekyll-feed (~> 0.6)
   jekyll-less
-  minima (~> 2.0)
   therubyracer
   tzinfo-data
 
