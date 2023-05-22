@@ -1,14 +1,79 @@
 -   media: "Digital Design"
     projects:
-    -   name: "How Severe Is Your State's Coronavirus Outbreak?"
+    -   name: "The ripple effects of Russia's war in Ukraine are changing the world"
+        publisher: NPR
+        url: https://www.npr.org/2022/05/10/1093066817/ukraine-war-gas-prices-refugees
+        role: "designer/developer (one of three), graphics editor"
+        awards:
+        -   name: "SND Best of News Design Creative Competition"
+            category: "Award of Excellence: Infographics: International"
+            url: https://snd.org/best-of-design-competitions/snd44-annual-creative-competition-results/
+            date: "2022"
+
+    -   name: "Joy Generator"
+        publisher: NPR
+        url: https://apps.npr.org/joy-generator/
+        role: "graphics editor, project management"
+        feature: true
+        awards:
+        -   name: "Edward R Murrow Awards (National)"
+            category: "Winner: Excellence in Innovation, Radio Network"
+            url: https://www.rtdna.org/2022-national-edward-r-murrow-award-winners
+            date: "2022"
+        -   name: "Webby Awards"
+            category: "Honoree: Websites and Mobile Sites: Weird"
+            url: https://winners.webbyawards.com/2022/websites-and-mobile-sites/general-websites-and-mobile-sites/weird/220204/joy-generator
+            date: "2022"
+
+    -   name: "COVID-19 data trackers (cases, vaccinations, etc.)"
         publisher: NPR
         url: https://www.npr.org/sections/health-shots/2020/09/01/816707182/map-tracking-the-spread-of-the-coronavirus-in-the-u-s
         role: "designer (one of many), graphics editor"
         awards:
+        -   name: "Edward R Murrow Awards (National)"
+            category: "Winner: Digital, Radio Network (for suite of COVID-related trackers)"
+            url: https://www.rtdna.org/2022-national-edward-r-murrow-award-winners
+            date: "2022"
         -   name: "SND Best of Digital Design"
-            category: "Award of Excellence: Format: Use of Data"
+            category: "Award of Excellence: Line of Coverage: Coronavirus"
+            url: https://snd.org/best-of-design-competitions/2020-best-of-digital-design-results/
+            date: "2021"
+        -   name: "SND Best of Digital Design"
+            category: "Award of Excellence: Infographics: Health (for vaccination tracker)"
+            url: https://snd.org/best-of-design-competitions/2020-best-of-digital-design-results/
+            date: "2021"
+        -   name: "SND Best of Digital Design"
+            category: "Award of Excellence: Format: Use of Data (for U.S. COVID case tracker)"
             url: https://www.snd.org/2021/02/snd-42-best-of-digital-design-live-results/
             date: "2020"
+
+    -   name: "Who Will Pay To Protect Tech Giants From Rising Seas?"
+        publisher: NPR
+        url: https://apps.npr.org/sea-level-rise-silicon-valley/
+        role: "design/development, graphics editing, project management"
+        awards:
+        -   name: "Society of Environmental Journalists Awards for Reporting on the Environment"
+            category: "First Honorable Mention: Outstanding Feature Story, Large"
+            url: https://www.sej.org/winners-sej-21st-annual-awards-reporting-environment#feature-large
+            date: "2022"
+        -   name: "Covering Climate Now"
+            category: "Finalist: Multimedia"
+            url: https://coveringclimatenow.org/covering-climate-now-journalism-awards-2022-finalists/
+            date: "2022"
+        -   name: "SND Best of Digital Design"
+            category: "Award of Excellence: Design: Environment & Science"
+            url: https://snd.org/best-of-design-competitions/2020-best-of-digital-design-results/
+            date: "2021"
+
+    -   name: "United States of Wildfire"
+        publisher: NPR
+        url: https://apps.npr.org/us-wildfires-impact-environment-climate-change/
+        role: "graphics editor, project management"
+        awards:
+        -   name: "SND Best of Digital Design"
+            category: "Award of Excellence: Design: Environment & Science"
+            url: https://snd.org/best-of-design-competitions/2020-best-of-digital-design-results/
+            date: "2021"
 
     -   name: "The Ghost Towns Behind The Gates"
         publisher: NPR
