@@ -8,8 +8,10 @@ permalink: /resume/
 ## Work History
 
 ### NPR.org
-#### Acting Supervising Producer, News Apps team
-_October 2020&ndash;present_
+#### Supervising Graphics Editor, News Apps team
+_March 2023&ndash;present_
+
+_Acting: October 2020&ndash;March 2023_
 
 #### Senior Graphics Editor, Visuals/News Apps team
 _December 2008&ndash;present_
