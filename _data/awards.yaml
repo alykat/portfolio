@@ -1,5 +1,15 @@
 -   media: "Digital Design"
     projects:
+    -   name: "Climate, migration and the far-right: How the ripples of climate change are radiating outward"
+        publisher: NPR
+        url: https://apps.npr.org/climate-migration-senegal-morocco-spain/
+        role: "designer/developer (one of many), graphics editor, project management"
+        awards:
+        -   name: "Online Journalism Awards"
+            category: "Finalist: Topical Reporting: Climate Change"
+            url: https://awards.journalists.org/entries/climate-migration-and-the-far-right-how-the-ripples-of-climate-change-are-radiating-outward/
+            date: "2023"
+
     -   name: "The ripple effects of Russia's war in Ukraine are changing the world"
         publisher: NPR
         url: https://www.npr.org/2022/05/10/1093066817/ukraine-war-gas-prices-refugees
