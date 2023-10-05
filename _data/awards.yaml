@@ -1,9 +1,20 @@
 -   media: "Digital Design"
     projects:
+    -   name: "Diagnosis: Debt"
+        publisher: NPR and KFF Health News
+        url: https://www.npr.org/series/1104684885/diagnosis-debt
+        role: "graphics editor (one of many)"
+        awards:
+        -   name: "Gerald Loeb Awards"
+            category: "Winner: Personal Finance and Consumer Reporting"
+            url: https://www.prnewswire.com/news-releases/winners-of-the-2023-gerald-loeb-awards-announced-by-ucla-anderson-at-new-york-city-event-301942571.html
+            date: "2023"
+
     -   name: "Climate, migration and the far-right: How the ripples of climate change are radiating outward"
         publisher: NPR
         url: https://apps.npr.org/climate-migration-senegal-morocco-spain/
         role: "designer/developer (one of many), graphics editor, project management"
+        feature: true
         awards:
         -   name: "Online Journalism Awards"
             category: "Winner: Topical Reporting: Climate Change"
