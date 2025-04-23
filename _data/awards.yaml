@@ -1,5 +1,34 @@
 -   media: "Digital Design"
     projects:
+    -   name: "The USDA’s gardening zones shifted. This map shows you what’s changed in vivid detail"
+        publisher: NPR
+        url: https://apps.npr.org/plant-hardiness-garden-map/
+        role: "designer/developer (one of many), graphics editor, project management"
+        awards:
+        -   name: "Society for News Design 46th Annual Creative Competition"
+            category: "Award of Excellence: Page Design — Environment and Science"
+            url: https://snd.org/best-of-design-competitions/results/
+            date: "2025"
+
+    -   name: "Central Asia’s Ticking Time Bomb: Water"
+        publisher: NPR
+        url: https://apps.npr.org/aral-sea-shrinking-map/
+        role: "designer/developer (one of many), graphics editor, project management"
+        awards:
+        -   name: "Society for News Design 46th Annual Creative Competition"
+            category: "Award of Excellence: Page Design — Environment and Science"
+            url: https://snd.org/best-of-design-competitions/results/
+            date: "2025"
+
+    -   name: "Gaza/Israel coverage (a package of stories)"
+        publisher: NPR
+        role: "designer/developer (one of many), graphics editor"
+        awards:
+        -   name: "Society for News Design 46th Annual Creative Competition"
+            category: "Award of Excellence: Special Topic: Conflict in the Middle East"
+            url: https://snd.org/best-of-design-competitions/results/
+            date: "2025"
+
     -   name: "Diagnosis: Debt"
         publisher: NPR and KFF Health News
         url: https://www.npr.org/series/1104684885/diagnosis-debt
