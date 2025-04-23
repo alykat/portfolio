@@ -5,6 +5,10 @@
         url: https://apps.npr.org/plant-hardiness-garden-map/
         role: "designer/developer (one of many), graphics editor, project management"
         awards:
+        -   name: "Information Is Beautiful Awards"
+            category: "Shortlist: Places, Spaces and Environment"
+            url: https://www.informationisbeautifulawards.com/showcase/7532-the-usda-s-gardening-zones-shifted-this-map-shows-you-what-s-changed-in-vivid-detail
+            date: "2024"
         -   name: "Society for News Design 46th Annual Creative Competition"
             category: "Award of Excellence: Page Design — Environment and Science"
             url: https://snd.org/best-of-design-competitions/results/
