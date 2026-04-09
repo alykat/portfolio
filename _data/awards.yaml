@@ -1,12 +1,11 @@
 -   media: "Digital Design"
     projects:
 
-    https://peabodyawards.com/stories/nominees-in-entertainment-kids-arts-interactive-announced-2025/
-    
     -   name: "One family. One attack. 132 names. Investigating one of the deadliest moments of the war in Gaza"
         publisher: NPR
         url: https://apps.npr.org/gaza-building-israel-strike-casualties/
         role: "graphics editor, project management"
+        feature: true
         awards:
         -   name: "Peabody Awards"
             category: "Nominee, Interactive & Immersive"
